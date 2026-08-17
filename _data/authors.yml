@@ -1,0 +1,91 @@
+# /_data/authors.yml
+
+Afi Hidayatun Nafiqoh:
+  name        : "Afi Hidayatun Nafiqoh"
+  bio         : 
+  avatar      : 
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-square-instagram"
+      url: "https://www.instagram.com/afihidayatunnafiqoh"
+
+I. S. Savirta:
+  name        : "I. S. Savirta"
+  bio         : 
+  avatar      : 
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-square-instagram"
+      url: "https://www.instagram.com/isyssavirta"
+
+Adyatma Zaki Rabbani:
+  name        : "Adyatma Zaki Rabbani"
+  bio         : 
+  avatar      : 
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-square-instagram"
+      url: "https://www.instagram.com/adyatmazakirabbani"
+
+Kisthosil Fachim:
+  name        : "Kisthosil Fachim"
+  bio         : 
+  avatar      : 
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-square-instagram"
+      url: "https://www.instagram.com/kisthosilfachim"
+
+Nikmatul Istiqomah:
+  name        : "Nikmatul Istiqomah"
+  bio         : 
+  avatar      : 
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-square-instagram"
+      url: "https://www.instagram.com/nikmatulistiqomah"
+
+M. Kafabih:
+  name        : "M. Kafabih"
+  bio         : 
+  avatar      : 
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-square-instagram"
+      url: "https://www.instagram.com/m.kafabih"
+
+Marinda Sekar Ayu:
+  name        : "Marinda Sekar Ayu"
+  bio         : 
+  avatar      : 
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-square-instagram"
+      url: "https://www.instagram.com/marindasekarayu"
+
+Naili Mar'atil Fitriya:
+  name        : "Naili Mar'atil Fitriya"
+  bio         : 
+  avatar      : 
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-square-instagram"
+      url: "https://www.instagram.com/nailimaratilfitriya"
+
+M. Hikam Mukhbitin:
+  name        : "M. Hikam Mukhbitin"
+  bio         : 
+  avatar      : 
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-square-instagram"
+      url: "https://www.instagram.com/m.hikam.mukhbitin"
+
+Segara Alam:
+  name        : "Segara Alam"
+  bio         : 
+  avatar      : 
+  links:
+    - label: "website"
+      icon: "fas fa-fw fa-square-globe"
+      url: "segaraalam.my.id"
