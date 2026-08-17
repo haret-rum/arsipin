@@ -9,6 +9,6 @@ group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-include-cache"
   gem "faraday-retry"
-  gem "wdm"
+  gem "wdm", platforms: [:mswin, :mingw, :x64_mingw]
   gem "fiddle"
 end
