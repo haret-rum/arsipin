@@ -10,7 +10,7 @@ tags:
   - "kolonialisme-pemukim"
   - "palestina"
 ---
-
+![](../../Media/2024-03-16-kegelapan-sebelum-fajar-menyingsing-penjajahan-pemukim-israel-berada-di-titik-terakhir-1787049341000.jpg)
 _Pada peringatan Genosida tahunan IHRC di London, Inggris (21/1), Profesor **Ilan Pappé** berbicara tentang perlunya memahami bahwa genosida terhadap warga Palestina yang kita saksikan saat ini, betapapun brutalnya, juga merupakan keruntuhan dari apa yang disebut dengan negara Yahudi. Kita harus siap untuk membayangkan dunia baru sesudahnya._
 
 Gagasan bahwa Zionisme adalah kolonialisme pemukim _(settlers_ _colonialism)_ bukanlah perkara baru. Para cendekiawan Palestina pada tahun 1960-an yang bekerja di Beirut di Pusat Penelitian PLO telah memahami bahwa apa yang mereka hadapi di Palestina bukanlah proyek kolonial klasik. Mereka tidak hanya membingkai Israel sebagai koloni Inggris atau Amerika, melainkan juga menganggapnya sebagai fenomena yang ada di belahan dunia lain; yang didefinisikan sebagai kolonialisme pemukim. Sangat menarik bahwa selama 20 hingga 30 tahun, gagasan tentang Zionisme sebagai kolonialisme pemukim sempat menghilang dari wacana politik dan akademis. Gagasan ini kembali muncul ketika para cendekiawan di belahan dunia lain, khususnya Afrika Selatan, Australia, dan Amerika Utara, sepakat bahwa Zionisme adalah fenomena yang serupa dengan gerakan orang-orang Eropa yang menciptakan Amerika Serikat, Kanada, Australia, Selandia Baru, dan Afrika Selatan. Gagasan ini membantu kita untuk memahami dengan lebih baik sifat sebenarnya dari proyek Zionisme di Palestina sejak akhir abad ke-19 hingga saat ini, dan memberikan kita gambaran tentang apa saja yang akan terjadi di masa mendatang.

@@ -14,6 +14,8 @@ tags:
   - "palestina"
   - "perang"
   - "perubahan-iklim"
+header:
+  image: assets/images/posts/Media/2023-12-14-emisi-perang-di-gaza-sebanding-dengan-emisi-negara-industri-besar-1787049387349.jpg
 ---
 
 Hadeel Farfour (13 Desember 2023)

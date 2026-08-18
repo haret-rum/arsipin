@@ -1,17 +1,20 @@
 ---
-title: "Berebut Tangan Berdarah Sang Penjahat HAM"
+title: Berebut Tangan Berdarah Sang Penjahat HAM
 date: 2024-12-20
 author: Adyatma Zaki Rabbani
-categories: 
-  - "esai"
-tags: 
-  - "dominan"
-  - "ideologi"
-  - "ilmu"
-  - "logika"
-  - "masisir"
-  - "prabowo"
-  - "presiden"
+categories:
+  - esai
+tags:
+  - dominan
+  - ideologi
+  - ilmu
+  - logika
+  - masisir
+  - prabowo
+  - presiden
+header:
+  image: assets/images/posts/Media/2024-12-20-berebut-tangan-berdarah-sang-penjahat-ham-1787049227406.jpg
+
 ---
 
 Pada tanggal 17 Desember 2024, Presiden Republik Indonesia Prabowo Subianto tiba di Mesir untuk menghadiri Konferensi Tingkat Tinggi (KTT) D8. Di tengah-tengah kesibukannya itu, ia menyempatkan diri untuk menyapa masisir dan memberikan pidato sepatah dua patah kata di Al-Azhar Convention Center pada tanggal 18 Desember 2024.

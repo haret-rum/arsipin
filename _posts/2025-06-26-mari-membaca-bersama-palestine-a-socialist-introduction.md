@@ -10,6 +10,8 @@ tags:
   - "kolonialisme"
   - "masisir"
   - "palestina"
+header:
+  image: assets/images/posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction-1787049782410.jpg
 ---
 
 ## Mari Membaca Bersama “Palestine: A Socialist Introduction”

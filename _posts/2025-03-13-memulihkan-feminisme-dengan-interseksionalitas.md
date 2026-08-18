@@ -14,6 +14,8 @@ tags:
   - "kelas"
   - "ras"
   - "seksualitas"
+header:
+  image: assets/images/posts/2025-03-13-memulihkan-feminisme-dengan-interseksionalitas-1787049739147.jpg
 ---
 
 _Tulisan ini merupakan refleksi pembelajaran di Sekolah Pemikiran Perempuan 2025, memperingati International Women's Day._

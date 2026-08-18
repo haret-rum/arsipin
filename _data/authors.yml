@@ -83,8 +83,8 @@ M. Hikam Mukhbitin:
 
 Segara Alam:
   name        : "Segara Alam"
-  bio         : 
-  avatar      : 
+  bio         : "Azhari materialis marxis"
+  avatar      : "assets/images/authors/ResizedImage_2026-02-05_11-51-56_1.png"
   links:
     - label: "website"
       icon: "fas fa-fw fa-square-globe"
