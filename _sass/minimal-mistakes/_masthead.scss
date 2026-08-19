@@ -3,7 +3,9 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  position: sticky;
+  top: 0;
+  background-color: $background-color;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -15,6 +17,7 @@
     @include clearfix;
     margin-inline: auto;
     padding: 1em;
+    height: 4em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -39,7 +42,7 @@
 }
 
 .site-logo img {
-  max-height: 2rem;
+  max-height: 2.25rem;
 }
 
 .site-title {

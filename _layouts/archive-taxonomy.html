@@ -21,7 +21,7 @@ author_profile: false
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
+      <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{% if page.taxonomy_type == "categories" %}{{ page.title | capitalize }}{% else %}{{ page.title }}{% endif %}</h1>
     {% endunless %}
     <div class="archive-cards">
       {% for post in page.posts %}
