@@ -6,6 +6,7 @@ categories:
   - "esai"
 header:
   image: assets/images/posts/2024-01-05-kritik-ibnu-khaldun-terhadap-sejarah-yang-empiris-1787049592505.jpg
+  teaser: assets/images/posts/2024-01-05-kritik-ibnu-khaldun-terhadap-sejarah-yang-empiris-1787049592505.jpg
 ---
 
 Apalah artinya ilmu sejarah jika ia hanya menjelaskan gejala-gejala sejarah yang tampak dan mengulangi segala hal yang telah dituliskan oleh generasi sebelumnya?

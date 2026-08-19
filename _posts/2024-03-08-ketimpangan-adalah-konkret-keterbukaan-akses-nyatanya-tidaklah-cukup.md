@@ -15,6 +15,7 @@ tags:
   - "sosial"
 header:
   image: assets/images/posts/2024-03-08-ketimpangan-adalah-konkret-keterbukaan-akses-nyatanya-tidaklah-cukup-1787049488156.jpg
+  teaser: assets/images/posts/2024-03-08-ketimpangan-adalah-konkret-keterbukaan-akses-nyatanya-tidaklah-cukup-1787049488156.jpg
 ---
 
 Perempuan ketika dihadapkan pada pilihan-pilihan untuk hidupnya adalah tubuh yang diseret ke dalam selubung tebal realitas sosial yang kompleks. Masa depan perempuan dan keputusannya atas segala kemungkinan yang tersedia sering kali dikaburkan oleh bias-bias yang terbangun secara kolektif berupa sekat-sekat, bahwa laki-laki dan perempuan adalah berbeda dan sewajarnya patut dibedakan. Perempuan yang hendak melanjutkan langkah pendidikan atau kepakaran, misalnya, ketika berhadapan dengan berbagai pilihan bidang yang beragam, kerap kali beberapa bidang tertentu tersingkir begitu saja dari pilihannya. Ini menjadi persoalan dalam kehidupan sosial kita yang dalam banyak hal menempatkan perempuan pada posisi yang tidak menguntungkan; mengapa domain-domain tertentu terpikirkan oleh perempuan, sementara yang lain tak terpikirkan begitu saja.

@@ -11,12 +11,9 @@ tags:
   - "pemikiran"
   - "tradisi"
 header:
-  image: assets/images/posts/Media/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049457936.jpg
+  image: assets/images/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049457936.jpg
+  image: assets/images/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049457936.jpg
 ---
-
-![](../../Media/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049457936.jpg)
-
-![](../../Media/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303499.jpg)![](../../Media/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303495.jpg)![](../../Media/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303492.jpg)![](../../Media/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303490.jpg)![](../../Media/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303487.jpg)![](../../Media/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303481.jpg)![](../../Media/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049303469.jpg)
 
 Sebagian besar masisir yang menggiati dunia pemikiran Islam dan Arab, lebih-lebih maba, biasanya tak jauh-jauh dari pemikiran Hasan Hanafi, Abid Al-Jabiri, Arkoun dan pemikir-pemikir lain yang bagi orang awam disebut-sebut pemikir liberal. Pemikiran dan gagasan dari barisan pemikir ini biasanya dibaca dengan penuh kekaguman dan hasrat emansipatif di hadapan tradisi berpikir yang mapan dan membelenggu. Alasan lainnya adalah barisan pemikir inilah yang terdengar di Indonesia, khususnya bagi maba yang dekat dengan abang-abangan UIN.
 
@@ -36,17 +33,11 @@ Berikut ini akan saya urutkan beberapa buku kritik yang dapat dibaca, dari tema 
 
 **1\. Al-Wa’yu wa al-Wa’yu a’-Za’if fī al-Fikr al-‘Araby al-Mu’āshir** **(1988)** “Kesadaran dan Kesadaran Palsu dalam Pemikiran Arab Kontemporer”
 
-![](https://arsipin.site/wp-content/uploads/2024/12/image001-210x300.jpg)
-
- 
-
 [Buku ini](https://archive.org/details/al-waay_wa_al-waay_al-zaef/page/n19/mode/2up) merupakan kumpulan artikel yang ditulis oleh Mahmud Amin al-‘Alim, kritikus sastra dan marxis terkemuka Mesir, dari tahun 1974 hingga 1985. Sebagaimana diakui sendiri oleh al-‘Alim, kumpulan artikel yang satu ini lebih analitis dan lebih mendalam dibandingkan buku kritik yang ia tulis di periode sebelumnya, _al-Ma’ārik al-Fikriyyah_. Tren pemikiran seperti Kritik Nalar, Islam Kiri, eklektisme turats-modernitas, Revolusi Iran dan persepsi Arab tentang Zionisme dikupas tuntas dalam buku ini dengan cermat dan ringkas. Buku ini bisa menjadi pintu kecil untuk mengantar menuju pintu “kritik-kritik” yang lebih besar seperti _Naqd Naqd al-‘Aqli_ karya Tarabichi_,_ atau _Naqd al-‘Aqlāniyyah_ karya Ilyas Marqus.
 
 Al-‘Alim juga memiliki karya lain yang secara khusus dan serius mengupas pemikiran tokoh-tokoh terkemuka seperti Hasan Hanafi, al-Jabiri dan Zaki Najib Mahmud, yaitu _Mawqifuna min al-Turāts_. Semua tulisan Al-‘Alim kini telah dikumpulkan dan diterbitkan di Hai’ah al-Mishriyyah dalam ± 8 jilid dengan harga yang terjangkau buat masisir.
 
 **2\. Naqd al-Fikr al-Yawmy (1988)** “Kritik Pemikiran Sehari-Hari”
-
-![](https://arsipin.site/wp-content/uploads/2024/12/image003-203x300.png)
 
 [Buku ini](https://archive.org/details/20200507_20200507_1844/page/n7/mode/2up) merupakan kumpulan naskah yang ditulis Mahdi Amil dari tahun 1980 sampai 1987,  semacam refleksi pemikiran yang ia tinggalkan setiap kali ia usai membaca surat kabar, majalah dan buku yang sedang ramai diperbincangkan orang-orang. Dalam buku ini, diterbitkan 61 naskah dan 18 catatan pinggir dan satu lagi naskah yang ia belum selesaikan karena terjadi insiden penembakan terhadapnya di jalan lengang Beirut dan, sayangnya, tak lama kemudian ia meninggal.
 
@@ -54,15 +45,11 @@ Buku ini memuat komentar kritis Amil terhadap tiga arus utama pemikiran yang ia 
 
 **3\. Naqd al-Fikr al-Dīnī** **(1969)** “Kritik Nalar Religius”
 
-![](https://arsipin.site/wp-content/uploads/2024/12/image005-218x300.png)
-
 Apakah yang akan anda pikirkan ketika semua peristiwa sehari-hari ditafsirkan melulu di atas cara pandang religius? Seperti mangkirnya komunisme dari Arab ditafsirkan sebagai berkah Tuhan telah mengusir setan-setan? Atau kekalahan Arab dari Israel karena masyarakat Arab telah melepaskan keimanannya?
 
 [Buku ini](https://foulabook.com/ar/book/%D9%86%D9%82%D8%AF-%D8%A7%D9%84%D9%81%D9%83%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A-pdf) bertolak dari respons-respons Sadik J. Azm atas cara pandang religius dominan semacam itu. Disituasikan oleh peristiwa kekalahan dan naiknya fundamentalisme di panggung politik, cara pandang religius menjadi semacam pisau bedah yang digunakan oleh kelompok fundamentalis dan semakin populer di kalangan pemuda. Buku ini diterbitkan dua tahun setelah buku kontroversialnya _al-Naqd al-Dzāti ba’da al-Hazīmah_. Gagasannya tentang pertentangan agama dan sains memang kurang matang di buku ini, tetapi _overall_ buku ini sangat menarik untuk dibaca, lebih-lebih mempertimbangkan situasi politik dan situasi keagamaan pada waktu itu.
 
 **4\. Al-Nahdlah al-Mujahhadhah** **(2011)** “Renaisans yang Digugurkan”
-
-![](https://arsipin.site/wp-content/uploads/2024/12/image007-225x300.png)
 
 Jika anda adalah tipe masisir yang serius mengkaji _Nahdlah_ (renaisans Arab atau _Tanwīr_), maka [Buku](https://archive.org/details/al-nahda_al-mojhada) yang ditulis Salamah Kaylah ini wajib anda baca. Buku ini tidak hanya merefleksikan kegagalan _Nahdlah_ Arab, tetapi juga analisa mendalam di setiap fasenya.
 
@@ -72,23 +59,17 @@ Tentu di dalam buku ini kita tidak akan mendapati kritik utuh tentang pemikiran 
 
 **5\. Fī al-Tsaqāfah Al-Mishriyyah** **(1955)** “Tentang Kebudayaan Mesir”
 
-![](https://arsipin.site/wp-content/uploads/2024/12/image009-191x300.png)
-
 Jika anda menggemari kritik sastra dan cukup terganggu dengan jargon “sastra untuk sastra” maka [buku ini](https://archive.org/details/fi_al-thaqafa_al-mesreya) akan menjawab kegelisahan anda. Buku ini merupakan kumpulan kritik sastra yang pernah diterbitkan Mahmud Amin  al-‘Alim dan Abdul Azim Anis di koran-koran Mesir sekitar tahun 50-an, kemudian dibuatkan pengantar dari Husain Muruwwah. Buku ini ibarat kritik tajam dari generasi sastra Arab muda kepada generasi tua pemuja sastra klasik. Al-‘Alim dan Anis berusaha untuk menampik “sastra untuk sastra” dengan mengembalikan sastra sebagai cerminan kenyataan sosial dan politik. Perdebatan dimulai dengan gagasan tentang isi dan bentuk, yang menurut keduanya hubungan isi dan bentuk adalah hubungan realitas sosial dengan karya sastra, bukan makna dengan lafadz sebagaimana diyakini oleh Taha Husain.
 
 Buku ini konon adalah cikal bakal dari pandangan realisme dalam kesusastraan Arab. Namun anda mungkin tidak akan menemukan gagasan yang matang dan mendalam di buku ini, sebaliknya buku ini seperti _balas-balasan_ di _facebook_, hanya saja tidak seperti _postingan_ bak _bola liar._
 
 **6\. Azmāt al-Hadhārah al-‘Arabiyyah am Azmāt al-Burjuwāziyyāt al-‘Arabiyyah (1974)** “Krisis Peradaban Arab ataukah Krisis Borjuasi Arab”
 
-![](https://arsipin.site/wp-content/uploads/2024/12/image011-199x300.png)
-
 [Buku keenam](https://archive.org/details/hamed_20190118/page/n83/mode/2up) ini adalah kumpulan kritik yang ditulis oleh Mahdi Amil membahas gagasan-gagasan yang lahir dari konferensi Kuwait pada 1974 yang mengusung tema _“Krisis Perkembangan Peradaban Negara-Negara Arab”_ mencakup gagasan tentang nalar _(al-‘aql),_ peradaban _(al-hadhārah)_ dan kemunduran _(al-takhalluf)_. Di dalam buku ini Mahdi Amil berusaha meneliti keterbatasan teoritis dari gagasan pemikir-pemikir yang terlibat dalam konferensi tersebut: Zaki Najib Mahmud, Syakir Mustafa, Adonis, Ibrahim Abu Lughod, Fuad Zakariya, Kostantin Zurayk dan lain sebagainya.
 
 Di dalam buku ini Amil menjelaskan kekeliruan epistemologis dari para pemikir itu, di mana krisis nyata dari kemunduran yang menjadi objeknya justru direduksi sebatas pada kritik nalar. Di sela-sela bab kritiknya ini, Amil juga menjelaskan kerangka-kerangka alternatif yang dapat menjadi penawar bagi kekeliruan tadi.
 
 **7\. Hal al-Qalbu li al-Syarq wa al-‘Aqlu li al-Gharb? (1985)** “Apakah Hati untuk Timur dan Pikiran untuk Barat?”
-
-![](https://arsipin.site/wp-content/uploads/2024/12/image013-193x300.png)
 
 [Buku ini](https://www.docdroid.net/aXthdsv/hl-alklb-llshrk-o-alaakl-llghrb-pdf) ditulis Mahdi Amil sebagai respons terhadap _Orientalisme_ Edward Said yang sedang naik daun pada waktu itu. Yang mendorong Amil untuk menuliskan kritik ini adalah klaim Said bahwa analisa Marx tentang corak produksi India tak lain merupakan pendekatan orientalis.
 

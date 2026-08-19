@@ -10,6 +10,7 @@ tags:
   - "timur-tengah"
 header:
   image: assets/images/posts/2025-04-10-ada-langkah-apa-prabowo-datang-lagi-ke-timur-tengah-1787049896102.jpg
+  teaser: assets/images/posts/2025-04-10-ada-langkah-apa-prabowo-datang-lagi-ke-timur-tengah-1787049896102.jpg
 ---
 
 Mengutip laman [Polri](https://inp.polri.go.id/artikel/president-prabowo-begins-middle-east-tour-with-visit-to-uae), Presiden Prabowo Subianto berangkat Rabu dini hari (9/4) dari bandara Halim Perdana Kusuma, Jakarta untuk tur diplomasi 5 negara; Uni Emirat Arab, Turki, Mesir, Qatar dan Jordan. Pesawat Kepresidenan lepas landas sekitar pukul 1 malam dan diperkirakan akan tiba pada pukul 6 pagi dari Uni Emirat Arab.

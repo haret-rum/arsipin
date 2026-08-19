@@ -1,0 +1,186 @@
+---
+layout: archive
+---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<div class="entries-grid">
+  {% for post in posts %}
+    {% unless post.hidden %}
+      {% assign post_image = post.header.image | default: post.image | default: post.header.teaser | default: site.teaser %}
+      {% assign post_author = post.author %}
+      {% assign post_categories = post.categories %}
+
+      <div class="grid__item">
+        <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+          {% if post_image %}
+            <div class="archive__item-teaser">
+              <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | strip_html | strip_newlines | escape }}">
+                <img src="{{ post_image | relative_url }}" alt="{{ post.title | strip_html | strip_newlines | escape }}" loading="lazy">
+              </a>
+            </div>
+          {% endif %}
+
+          <div class="archive__item-body">
+            {% if post_categories and post_categories.size > 0 %}
+              <p class="archive__item-category">
+                {{ post_categories | join: ", " }}
+              </p>
+            {% endif %}
+
+            <h2 class="archive__item-title no_toc p-name" itemprop="headline">
+              <a class="u-url" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h2>
+
+            {% if post_author %}
+              <p class="archive__item-author">
+                {{ post_author }}
+              </p>
+            {% endif %}
+
+            {% assign post_excerpt = post.excerpt | default: post.content %}
+            {% if post_excerpt %}
+              <p class="archive__item-excerpt">
+                {{ post_excerpt | strip_html | truncatewords: 40 }}
+              </p>
+            {% endif %}
+
+            {% if post.date %}
+              <p class="page__meta">
+                <span class="page__meta-date">
+                  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+                </span>
+              </p>
+            {% endif %}
+          </div>
+        </article>
+      </div>
+    {% endunless %}
+  {% endfor %}
+</div>
+
+{% include paginator.html locale=locale %}
+
+<style>
+  .entries-grid {
+    display: block;
+    width: 100%;
+  }
+
+  .grid__item {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .archive__item {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 0.75rem 0 0.5rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    margin: 0;
+  }
+
+  .archive__item-teaser {
+    width: 100%;
+    margin: 0 0 1rem;
+    overflow: hidden;
+    border-radius: 0.5rem;
+  }
+
+  .archive__item-teaser img {
+    display: block;
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    transition: transform 0.25s ease;
+  }
+
+  .archive__item-teaser:hover img {
+    transform: scale(1.02);
+  }
+
+  .archive__item-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    padding: 0 0 1.2rem;
+  }
+
+  .archive__item-category {
+    display: inline-block;
+    width: fit-content;
+    padding: 0.28rem 0.72rem;
+    border-radius: 999px;
+    background: #f3f4f6;
+    color: #374151;
+    font-size: 0.68rem;
+    line-height: 1.3;
+    letter-spacing: 0.05em;
+    margin: 0 0 0.7rem;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+
+  .archive__item-author {
+    font-size: 0.72rem;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    margin: 0 0 0.45rem;
+    color: #6b7280;
+    text-transform: none;
+    font-weight: 600;
+  }
+
+  .archive__item-title {
+    margin: 0 0 0.4rem;
+    line-height: 1.25;
+  }
+
+  .archive__item-title .u-url {
+    font-size: clamp(1.2rem, 1.5vw, 2rem);
+    font-weight: 700;
+    color: #111827 !important;
+    text-decoration: none !important;
+    letter-spacing: -0.02em;
+  }
+
+  .archive__item-title .u-url,
+  .archive__item-title .u-url:visited,
+  .archive__item-title .u-url:hover,
+  .archive__item-title .u-url:focus,
+  .archive__item-title .u-url:active {
+    color: inherit !important;
+    text-decoration: none !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+  }
+
+  .archive__item-title .u-url::after {
+    content: "" !important;
+    display: none !important;
+  }
+
+  .archive__item-excerpt {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: #4a4a4a;
+  }
+</style>
+
+

@@ -13,8 +13,8 @@ tags:
   - prabowo
   - presiden
 header:
-  image: assets/images/posts/Media/2024-12-20-berebut-tangan-berdarah-sang-penjahat-ham-1787049227406.jpg
-
+  image: assets/images/posts/2024-12-20-berebut-tangan-berdarah-sang-penjahat-ham-1787049227406.jpg
+  teaser: assets/images/posts/024-12-20-berebut-tangan-berdarah-sang-penjahat-ham-1787049227406.jpg
 ---
 
 Pada tanggal 17 Desember 2024, Presiden Republik Indonesia Prabowo Subianto tiba di Mesir untuk menghadiri Konferensi Tingkat Tinggi (KTT) D8. Di tengah-tengah kesibukannya itu, ia menyempatkan diri untuk menyapa masisir dan memberikan pidato sepatah dua patah kata di Al-Azhar Convention Center pada tanggal 18 Desember 2024.

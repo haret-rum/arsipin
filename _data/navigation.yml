@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Esai"
+    url: /categories/esai/
+  - title: "Ulasan"
+    url: /categories/ulasan/
+  - title: "Redaksi"
+    url: /categories/redaksi/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -11,6 +11,7 @@ tags:
   - "masisir"
 header:
   image: assets/images/posts/2025-05-26-kultur-gatekeeping-masisir-dan-kenapa-kita-perlu-meruntuhkannya-1787049835203.jpg
+  teaser: assets/images/posts/2025-05-26-kultur-gatekeeping-masisir-dan-kenapa-kita-perlu-meruntuhkannya-1787049835203.jpg
 ---
 
 Di tengah hiruk pikuk Kota Kairo, ribuan pelajar Indonesia di Mesir (Masisir) menjalani kehidupan yang sarat akan paradoks. Sebagai komunitas terdidik di bawah naungan Al-Azhar—institusi keagamaan tertua dan paling dihormati di dunia Islam—, mereka diharapkan menjadi garda terdepan penjaga nilai keadilan dan kebenaran. Namun, pada kenyataannya mahasiswa tetaplah manusia yang tidak selalu berada di kondisi ideal tanpa cela dan kejahatan. Tepat di situlah ada  kecenderungan yang terus dipelihara, yaitu budaya **_gatekeeping_** (harfiah: menjaga gerbang). Dalam konteks jaman penuh informasi ini, gatekeeping merupakan **sebuah istilah ketika seseorang ingin menyembunyikan suatu informasi yang dipunya agar tidak diketahui orang lain**. Budaya ini jelas-jelas mengaburkan batas antara solidaritas dan pembiaran kejahatan.

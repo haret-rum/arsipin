@@ -20,6 +20,7 @@ tags:
   - "zizek"
 header:
   image: assets/images/posts/2023-12-13-mamsha-ahl-mishr-melepas-beban-stres-di-atas-kesengsaraan-orang-lain-1787049631966.jpg
+  teaser: assets/images/posts/2023-12-13-mamsha-ahl-mishr-melepas-beban-stres-di-atas-kesengsaraan-orang-lain-1787049631966.jpg
 ---
 
 Sejak awal tahun 2019, dapat disaksikan rekonstruksi area pedestrian di pinggiran Sungai Nil yang memanjang sejauh 1.8 km dari jembatan 15 Maret hingga jembatan Imbaba. Rekonstruksi ini diselesaikan pada 2021 lalu dan menjadi situs wisata dengan nama yang cukup memikat “Mamsha Ahl Mishr” (Pedestrian Orang-Orang Mesir). Tahun ini tepi-tepian Sungai Nil dari Jembatan 15 Maret hingga Jembatan Qasr al-Nil juga dikerjakan proyek serupa[\[1\]](#_ftn1). Kabarnya rekonstruksi area pedestrian ini juga akan dilakukan di sepanjang Nil di kota-kota lain sebagai bagian dari Visi Mesir 2030 di bidang pariwisata.

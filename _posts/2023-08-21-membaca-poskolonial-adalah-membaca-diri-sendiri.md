@@ -16,6 +16,7 @@ tags:
   - "subaltern"
 header:
   image: assets/images/posts/2023-08-21-membaca-poskolonial-adalah-membaca-diri-sendiri-1787049683839.jpg
+  teaser: assets/images/posts/2023-08-21-membaca-poskolonial-adalah-membaca-diri-sendiri-1787049683839.jpg
 ---
 
 > “_Setiap upaya untuk memberikan diagnosa dan terapi atas persoalan yang terjadi di Indonesia tanpa melihat keterkaitan dengan konstelasi global, niscaya akan menemui kegagalan._”[\[1\]](#_ftn1)

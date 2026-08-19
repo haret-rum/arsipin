@@ -14,6 +14,7 @@ tags:
   - "revolusi"
 header:
   image: assets/images/posts/2024-02-03-huda-syarawi-simbol-kebebasan-perempuan-mesir-1787049506862.jpg
+  teaser: assets/images/posts/2024-02-03-huda-syarawi-simbol-kebebasan-perempuan-mesir-1787049506862.jpg
 ---
 
 Revolusi Mesir yang terjadi tahun 1919, menjadi momen bersejarah bagi seluruh warganya. Dalam rangka membebaskan diri dari tekanan kolonial Inggris, revolusi ini melibatkan seluruh warga Mesir dari berbagai lapisan masyarakat, salah satunya perempuan. Keikutsertaan perempuan dalam revolusi ini bisa dibilang menjadi kali pertama, mengingat ruang gerak perempuan di kalangan Mesir kala itu masih terbatas.
