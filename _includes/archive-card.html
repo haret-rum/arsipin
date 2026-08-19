@@ -1,0 +1,19 @@
+{% assign post_image = post.header.image | default: post.header.teaser | default: site.teaser %}
+<article class="archive-card">
+  {% if post_image %}
+    <a class="archive-card__image" href="{{ post.url | relative_url }}" aria-label="{{ post.title | strip_html | escape }}">
+      <img src="{{ post_image | relative_url }}" alt="" loading="lazy">
+    </a>
+  {% else %}
+    <div class="archive-card__image archive-card__image--empty" aria-hidden="true"></div>
+  {% endif %}
+  <div class="archive-card__body">
+    {% if include.show_category != false and post.categories and post.categories.size > 0 %}<p class="archive__item-category">{{ post.categories | first }}</p>{% endif %}
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {% include home-post-meta.html locale=include.locale %}
+    {% assign archive_author_name = post.author.name | default: post.author %}
+    {% if archive_author_name %}<p class="archive-card__author"><a href="{{ archive_author_name | slugify | prepend: '/authors/' | append: '/' | relative_url }}">{{ archive_author_name }}</a></p>{% endif %}
+    {% assign clean_excerpt = post.excerpt | strip_html | strip_newlines | replace: '<!DOCTYPE html>', '' | replace: '</html>', '' | replace: '<head>', '' | replace: '</head>', '' | replace: '<body>', '' | replace: '</body>', '' | replace: '<header id="title-block-header">', '' | replace: '</header>', '' | strip %}
+    {% if clean_excerpt %}<p class="archive-card__excerpt">{{ clean_excerpt | truncatewords: 28 }}</p>{% endif %}
+  </div>
+</article>

@@ -1,0 +1,41 @@
+---
+layout: default
+author_profile: false
+---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+<div id="main" role="main">
+  <div class="author-archive">
+    {% assign author_data = site.data.authors[page.author_name] %}
+    <header class="author-archive__header">
+      {% if author_data.avatar %}
+        <img class="author-archive__avatar" src="{{ author_data.avatar | relative_url }}" alt="{{ page.author_name }}">
+      {% endif %}
+      <div>
+        <p class="author-archive__eyebrow">Penulis</p>
+        <h1 id="page-title">{{ page.author_name }}</h1>
+        {% if author_data.bio %}<p class="author-archive__bio">{{ author_data.bio }}</p>{% endif %}
+        <p class="author-archive__count">{{ page.pagination.total_posts }} tulisan</p>
+      </div>
+    </header>
+
+    <div class="author-archive__posts archive-cards">
+    {% for post in page.posts %}
+      {% include archive-card.html locale=locale %}
+    {% endfor %}
+    </div>
+    {% include archive-paginator.html %}
+  </div>
+</div>
+
+{% include archive-card-styles.html %}
+
+<style>
+  .author-archive__header { display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 2px solid #111827; }
+  .author-archive__avatar { width: 7rem; height: 7rem; border-radius: 50%; object-fit: cover; }
+  .author-archive__eyebrow { margin: 0 0 .35rem; color: #6b7280; font-size: .72rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+  .author-archive__header h1 { margin: 0; color: #111827; }
+  .author-archive__bio, .author-archive__count { margin: .45rem 0 0; color: #6b7280; }
+  .author-archive__count { font-size: .8rem; font-weight: 700; }
+  @media (max-width: 600px) { .author-archive__header { align-items: flex-start; } }
+</style>

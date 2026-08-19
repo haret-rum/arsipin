@@ -26,6 +26,12 @@
       {% endif %}
     </h2>
     {% include page__meta.html locale=locale type=include.type %}
-    {% if post.excerpt %}<p class="archive__item-excerpt p-summary" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% assign archive_author_name = post.author.name | default: post.author %}
+    {% if archive_author_name %}
+      <p class="archive__item-author">
+        <a href="{{ archive_author_name | slugify | prepend: '/authors/' | append: '/' | relative_url }}">{{ archive_author_name }}</a>
+      </p>
+    {% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt p-summary" itemprop="description">{{ post.excerpt | strip_html | strip_newlines | replace: '<!DOCTYPE html>', '' | replace: '</html>', '' | replace: '<head>', '' | replace: '</head>', '' | replace: '<body>', '' | replace: '</body>', '' | replace: '<header id="title-block-header">', '' | replace: '</header>', '' | strip | truncatewords: 28 }}</p>{% endif %}
   </article>
 </div>

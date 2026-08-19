@@ -1,0 +1,11 @@
+{% if page.pagination.total_pages > 1 %}
+  <nav class="pagination" aria-label="Navigasi halaman arsip">
+    {% if page.pagination.previous_page_path %}
+      <a href="{{ page.pagination.previous_page_path | relative_url }}" rel="prev">Tulisan sebelumnya</a>
+    {% endif %}
+    <span>Halaman {{ page.pagination.page }} dari {{ page.pagination.total_pages }}</span>
+    {% if page.pagination.next_page_path %}
+      <a href="{{ page.pagination.next_page_path | relative_url }}" rel="next">Tulisan berikutnya</a>
+    {% endif %}
+  </nav>
+{% endif %}

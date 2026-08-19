@@ -23,8 +23,13 @@ author_profile: false
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
     {% endunless %}
-    {% for post in page.posts %}
-      {% include archive-single.html locale=locale %}
-    {% endfor %}
+    <div class="archive-cards">
+      {% for post in page.posts %}
+        {% include archive-card.html locale=locale show_category=false %}
+      {% endfor %}
+    </div>
+    {% include archive-paginator.html %}
   </div>
 </div>
+
+{% include archive-card-styles.html %}

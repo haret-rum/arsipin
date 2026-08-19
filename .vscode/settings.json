@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^bundle info jekyll-archives; bundle info jekyll-paginate$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
