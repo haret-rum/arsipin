@@ -67,7 +67,7 @@ layout: default
     </div>
 
     {% if site.comments.provider and page.comments %}
-      {% if jekyll.environment == 'production' %}
+      {% if jekyll.environment == 'production' or site.comments.provider == 'facebook' %}
         {% include comments.html locale=locale %}
       {% else %}
         <p>
