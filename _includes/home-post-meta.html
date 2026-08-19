@@ -1,0 +1,20 @@
+{% assign words_per_minute = post.words_per_minute | default: site.words_per_minute | default: 200 %}
+{% assign words = post.content | strip_html | number_of_words %}
+<p class="page__meta home-post-meta">
+  {% if post.date %}
+    <span class="page__meta-date">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </span>
+    <span class="page__meta-sep"></span>
+  {% endif %}
+  <span class="page__meta-readtime">
+    <i class="far fa-clock" aria-hidden="true"></i>
+    {% if words < words_per_minute %}
+      {{ site.data.ui-text[include.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[include.locale].minute_read | default: "minute read" }}
+    {% elsif words == words_per_minute %}
+      1 {{ site.data.ui-text[include.locale].minute_read | default: "minute read" }}
+    {% else %}
+      {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[include.locale].minute_read | default: "minute read" }}
+    {% endif %}
+  </span>
+</p>

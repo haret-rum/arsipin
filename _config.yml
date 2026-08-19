@@ -25,7 +25,7 @@ logo                     : "assets/images/logo/Logo Arsipin transparan.png" # pa
 repository               : haret-rum/arsipin # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
-words_per_minute         : 250
+words_per_minute         : 100
 enable_copy_code_button  : true # true, false (default)
 copyright                : "Arsipin" # "copyright" name, defaults to site.title
 copyright_url            : "https://haret-rum.github.io/arsipin/" # "copyright" URL, defaults to site.url
@@ -211,26 +211,9 @@ permalink: /:categories/:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Pagination with jekyll-paginate-v2
-# See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-#   for configuration details
-pagination:
-  # Set enabled to true to use paginate v2
-  enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 5
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  category: 'posts'
-  tag: ''
-  locale: ''
-  trail:
-    before: 2
-    after: 2
+# Pagination with jekyll-paginate v1
+paginate: 7
+paginate_path: '/page/:num/'
 
 # Plugins (previously gems:)
 plugins:

@@ -5,102 +5,237 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[locale].recent_posts | default: "Recent Posts" }}</h3>
-
 {% if paginator %}
   {% assign posts = paginator.posts %}
+  {% if paginator.page == 1 %}
+    {% assign is_first_page = true %}
+  {% else %}
+    {% assign is_first_page = false %}
+  {% endif %}
 {% else %}
   {% assign posts = site.posts %}
+  {% assign is_first_page = true %}
 {% endif %}
 
-<div class="entries-grid">
-  {% for post in posts %}
-    {% unless post.hidden %}
-      {% assign post_image = post.header.image | default: post.image | default: post.header.teaser | default: site.teaser %}
-      {% assign post_author = post.author %}
-      {% assign post_categories = post.categories %}
+{% if is_first_page %}
+  <section class="home-section home-section--featured" aria-labelledby="featured-posts-title">
+    <div class="home-section__header">
+      <h2 id="featured-posts-title">Tulisan terbaru</h2>
+    </div>
+    <div class="featured-carousel" data-carousel>
+      <div class="featured-carousel__viewport">
+        <div class="featured-carousel__track">
+{% endif %}
 
-      <div class="grid__item">
-        <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
-          {% if post_image %}
-            <div class="archive__item-teaser">
-              <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | strip_html | strip_newlines | escape }}">
-                <img src="{{ post_image | relative_url }}" alt="{{ post.title | strip_html | strip_newlines | escape }}" loading="lazy">
-              </a>
-            </div>
-          {% endif %}
+{% if is_first_page %}
+{% for post in posts limit: 3 %}
+  {% unless post.hidden %}
+    {% assign post_image = post.header.image | default: post.image | default: post.header.teaser | default: site.teaser %}
+    {% assign post_author = post.author %}
+    {% assign post_categories = post.categories %}
 
-          <div class="archive__item-body">
-            {% if post_categories and post_categories.size > 0 %}
-              <p class="archive__item-category">
-                {{ post_categories | join: ", " }}
-              </p>
-            {% endif %}
-
-            <h2 class="archive__item-title no_toc p-name" itemprop="headline">
-              <a class="u-url" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </h2>
-
-            {% if post_author %}
-              <p class="archive__item-author">
-                {{ post_author }}
-              </p>
-            {% endif %}
-
-            {% assign post_excerpt = post.excerpt | default: post.content %}
-            {% if post_excerpt %}
-              <p class="archive__item-excerpt">
-                {{ post_excerpt | strip_html | truncatewords: 40 }}
-              </p>
-            {% endif %}
-
-            {% if post.date %}
-              <p class="page__meta">
-                <span class="page__meta-date">
-                  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-                </span>
-              </p>
-            {% endif %}
-          </div>
-        </article>
+    <article class="home-post home-post--featured" data-carousel-slide="{{ forloop.index0 }}" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+      {% if post_image %}
+        <div class="archive__item-teaser">
+          <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | strip_html | strip_newlines | escape }}">
+            <img src="{{ post_image | relative_url }}" alt="{{ post.title | strip_html | strip_newlines | escape }}" loading="lazy">
+          </a>
+        </div>
+      {% endif %}
+      <div class="archive__item-body">
+        {% if post_categories and post_categories.size > 0 %}<p class="archive__item-category">{{ post_categories | join: ", " }}</p>{% endif %}
+        <h2 class="archive__item-title no_toc p-name" itemprop="headline"><a class="u-url" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        {% if post_author %}<p class="archive__item-author">{{ post_author }}</p>{% endif %}
+        {% assign post_excerpt = post.excerpt | default: post.content %}
+        {% if post_excerpt %}<p class="archive__item-excerpt">{{ post_excerpt | strip_html | truncatewords: 40 }}</p>{% endif %}
+        {% include home-post-meta.html locale=locale %}
       </div>
-    {% endunless %}
-  {% endfor %}
-</div>
+    </article>
+  {% endunless %}
+{% endfor %}
+{% endif %}
+
+{% if is_first_page %}
+  </div>
+      </div>
+      <button class="featured-carousel__control featured-carousel__control--previous" type="button" data-carousel-previous aria-label="Tulisan sebelumnya">&#8592;</button>
+      <button class="featured-carousel__control featured-carousel__control--next" type="button" data-carousel-next aria-label="Tulisan berikutnya">&#8594;</button>
+      <div class="featured-carousel__dots" data-carousel-dots></div>
+    </div>
+  </section>
+
+{% endif %}
+
+<section class="home-section home-section--latest" aria-labelledby="latest-posts-title">
+    <div class="home-section__header">
+      <h2 id="latest-posts-title">Tulisan lainnya</h2>
+    </div>
+  <div class="latest-posts">
+
+{% if is_first_page %}
+  {% assign latest_offset = 3 %}
+{% else %}
+  {% assign latest_offset = 0 %}
+{% endif %}
+{% for post in posts offset: latest_offset limit: 4 %}
+  {% unless post.hidden %}
+    {% assign post_image = post.header.image | default: post.image | default: post.header.teaser | default: site.teaser %}
+    {% assign post_author = post.author %}
+    {% assign post_categories = post.categories %}
+
+    <article class="home-post home-post--card" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+      {% if post_image %}
+        <div class="archive__item-teaser">
+          <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | strip_html | strip_newlines | escape }}">
+            <img src="{{ post_image | relative_url }}" alt="{{ post.title | strip_html | strip_newlines | escape }}" loading="lazy">
+          </a>
+        </div>
+      {% endif %}
+      <div class="archive__item-body">
+        {% if post_categories and post_categories.size > 0 %}<p class="archive__item-category">{{ post_categories | join: ", " }}</p>{% endif %}
+        <h2 class="archive__item-title no_toc p-name" itemprop="headline"><a class="u-url" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        {% if post_author %}<p class="archive__item-author">{{ post_author }}</p>{% endif %}
+        {% assign post_excerpt = post.excerpt | default: post.content %}
+        {% if post_excerpt %}<p class="archive__item-excerpt">{{ post_excerpt | strip_html | truncatewords: 20 }}</p>{% endif %}
+        {% include home-post-meta.html locale=locale %}
+      </div>
+    </article>
+  {% endunless %}
+{% endfor %}
+
+  </div>
+</section>
 
 {% include paginator.html locale=locale %}
 
 <style>
-  .entries-grid {
-    display: block;
-    width: 100%;
+  .home-section {
+    margin: 0 0 3rem;
   }
 
-  .grid__item {
-    width: 100%;
-    max-width: 100%;
+  .home-section__header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 1.25rem;
+    border-bottom: 2px solid #111827;
+  }
+
+  .home-section__header h2 {
     margin: 0;
-    padding: 0;
+    padding-bottom: 0.55rem;
+    font-size: 1.35rem;
   }
 
-  .archive__item {
+  .featured-carousel {
+    position: relative;
+    padding: 0 3rem 2.5rem;
+  }
+
+  .featured-carousel__viewport {
+    overflow: hidden;
+  }
+
+  .featured-carousel__track {
+    display: flex;
+    transition: transform 0.35s ease;
+  }
+
+  .featured-carousel .home-post--featured {
+    flex: 0 0 100%;
+  }
+
+  .featured-carousel__control {
+    position: absolute;
+    top: 40%;
+    z-index: 1;
+    width: 2.4rem;
+    height: 2.4rem;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    border-radius: 50%;
+    background: #fff;
+    color: #111827;
+    cursor: pointer;
+    font-size: 1.2rem;
+    line-height: 1;
+  }
+
+  .featured-carousel__control--previous {
+    left: 0;
+  }
+
+  .featured-carousel__control--next {
+    right: 0;
+  }
+
+  .featured-carousel__dots {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+
+  .featured-carousel__dot {
+    width: 0.55rem;
+    height: 0.55rem;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: #c7cbd1;
+    cursor: pointer;
+  }
+
+  .featured-carousel__dot.is-active {
+    background: #111827;
+  }
+
+  .home-post {
+    min-width: 0;
+  }
+
+  .home-post--featured {
     display: flex;
     flex-direction: column;
+  }
+
+  .home-post--card {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.25rem;
     width: 100%;
-    padding: 0.75rem 0 0.5rem;
-    border-top: 1px solid rgba(0, 0, 0, 0.08);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    margin-bottom: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    padding: 0.8rem;
+  }
+
+  .latest-posts {
+    display: block;
+  }
+
+  .home-post--card .archive__item-teaser {
+    flex: 0 0 220px;
     margin: 0;
   }
 
-  .archive__item-teaser {
+  .home-post--card .archive__item-body {
+    flex: 1;
+    width: auto;
+  }
+
+  .home-post--card .archive__item-teaser img {
+    height: 145px;
+  }
+
+  .home-post .archive__item-teaser {
     width: 100%;
     margin: 0 0 1rem;
     overflow: hidden;
-    border-radius: 0.5rem;
   }
 
-  .archive__item-teaser img {
+  .home-post .archive__item-teaser img {
     display: block;
     width: 100%;
     height: 220px;
@@ -108,11 +243,11 @@ layout: archive
     transition: transform 0.25s ease;
   }
 
-  .archive__item-teaser:hover img {
+  .home-post .archive__item-teaser:hover img {
     transform: scale(1.02);
   }
 
-  .archive__item-body {
+  .home-post .archive__item-body {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -150,7 +285,7 @@ layout: archive
     line-height: 1.25;
   }
 
-  .archive__item-title .u-url {
+  .home-post--featured .archive__item-title .u-url {
     font-size: clamp(1.2rem, 1.5vw, 2rem);
     font-weight: 700;
     color: #111827 !important;
@@ -181,6 +316,63 @@ layout: archive
     line-height: 1.7;
     color: #4a4a4a;
   }
+
+  @media (max-width: 767px) {
+    .featured-carousel {
+      padding-inline: 2.5rem;
+    }
+
+    .home-post--card {
+      display: block;
+    }
+
+    .home-post--card .archive__item-teaser {
+      margin-bottom: 1rem;
+    }
+
+    .home-post .archive__item-teaser img {
+      height: 170px;
+    }
+  }
 </style>
+
+<script>
+  document.querySelectorAll('[data-carousel]').forEach(function (carousel) {
+    var track = carousel.querySelector('.featured-carousel__track');
+    var slides = carousel.querySelectorAll('[data-carousel-slide]');
+    var dots = carousel.querySelector('[data-carousel-dots]');
+    var currentSlide = 0;
+
+    if (!track || slides.length < 2 || !dots) {
+      return;
+    }
+
+    slides.forEach(function (_, index) {
+      var dot = document.createElement('button');
+      dot.className = 'featured-carousel__dot' + (index === 0 ? ' is-active' : '');
+      dot.type = 'button';
+      dot.setAttribute('aria-label', 'Buka tulisan ' + (index + 1));
+      dot.addEventListener('click', function () {
+        goToSlide(index);
+      });
+      dots.appendChild(dot);
+    });
+
+    function goToSlide(index) {
+      currentSlide = (index + slides.length) % slides.length;
+      track.style.transform = 'translateX(-' + (currentSlide * 100) + '%)';
+      dots.querySelectorAll('.featured-carousel__dot').forEach(function (dot, dotIndex) {
+        dot.classList.toggle('is-active', dotIndex === currentSlide);
+      });
+    }
+
+    carousel.querySelector('[data-carousel-previous]').addEventListener('click', function () {
+      goToSlide(currentSlide - 1);
+    });
+    carousel.querySelector('[data-carousel-next]').addEventListener('click', function () {
+      goToSlide(currentSlide + 1);
+    });
+  });
+</script>
 
 
