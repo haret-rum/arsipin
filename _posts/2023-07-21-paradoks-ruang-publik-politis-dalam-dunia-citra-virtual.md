@@ -1,6 +1,8 @@
 ---
 title: "Paradoks Ruang Publik Politis dalam Dunia Citra Virtual"
 author: Kisthosil Fachim
+layout: single
+classes: wide
 date: 2023-07-21
 categories: 
   - "esai"

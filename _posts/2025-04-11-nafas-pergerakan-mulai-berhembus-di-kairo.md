@@ -1,6 +1,8 @@
 ---
 title: "Nafas Pergerakan Mulai Berhembus di Kairo"
 author: M. Hikam Mukhbitin
+layout: single
+classes: wide
 date: 2025-04-11
 layout: splash
 categories: 

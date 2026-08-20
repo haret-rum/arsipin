@@ -1,6 +1,8 @@
 ---
 title: "Catatan 5W1H SPRI: Forum Diskusi tapi Dituntut Menyulap Solusi"
 author: Marinda Sekar Ayu
+layout: single
+classes: wide
 date: 2025-04-12
 categories: 
   - "esai"

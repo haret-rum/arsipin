@@ -2,6 +2,8 @@
 title: "Kritik Ibnu Khaldun terhadap Sejarah yang “Empiris”"
 date: 2024-01-05
 author: Segara Alam
+layout: single
+classes: wide
 categories: 
   - "esai"
 header:

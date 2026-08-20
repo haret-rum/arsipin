@@ -1,6 +1,8 @@
 ---
 title: "Ketimpangan adalah Konkret, Keterbukaan Akses Nyatanya Tidaklah Cukup"
 author: Afi Hidayatun Nafiqoh
+layout: single
+classes: wide
 date: 2024-03-08
 categories: 
   - "esai"

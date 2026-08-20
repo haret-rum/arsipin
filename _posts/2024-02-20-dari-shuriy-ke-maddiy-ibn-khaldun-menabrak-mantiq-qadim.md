@@ -1,6 +1,8 @@
 ---
 title: "Dari Shūriy ke Māddiy: Ibn Khaldun Menabrak Mantiq Qadim"
 author: I. S. Savirta
+layout: single
+classes: wide
 date: 2024-02-20
 categories: 
   - "ulasan"

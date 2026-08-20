@@ -1,6 +1,8 @@
 ---
 title: "Islam dan Realitas; Qiyas dalam Paradigma Kontemporer"
 author: Kisthosil Fachim
+layout: single
+classes: wide
 date: 2023-08-24
 categories: 
   - "esai"

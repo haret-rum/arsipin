@@ -2,6 +2,8 @@
 title: "Biopik dan Luka yang Belum Pulih"
 date: 2025-08-07
 author: Segara Alam
+layout: single
+classes: wide
 categories: 
   - "kolom"
   - "redaksi"

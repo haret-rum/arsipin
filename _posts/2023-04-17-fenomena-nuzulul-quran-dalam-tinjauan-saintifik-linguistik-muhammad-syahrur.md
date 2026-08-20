@@ -2,6 +2,8 @@
 title: "Fenomena Nuzulul Quran dalam Tinjauan Saintifik-Linguistik Muhammad Syahrur"
 date: 2023-04-17
 author: Kisthosil Fachim
+layout: single
+classes: wide
 categories: 
   - "esai"
 tags: 

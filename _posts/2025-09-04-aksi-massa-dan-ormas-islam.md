@@ -1,6 +1,8 @@
 ---
 title: "Aksi Massa dan Ormas Islam"
 author: Segara Alam
+layout: single
+classes: wide
 date: 2025-09-04
 categories: 
   - "esai"

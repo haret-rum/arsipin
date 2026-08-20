@@ -2,6 +2,8 @@
 title: "Sikap Ilmiah Ibnu Khaldun"
 date: 2024-02-16
 author: Segara Alam
+layout: single
+classes: wide
 categories: 
   - "ulasan"
 tags: 

@@ -2,6 +2,8 @@
 title: "Proto-Materialisme Dialektika Historis Ibnu Khaldun"
 author: Segara Alam
 date: 2024-02-12
+layout: single
+classes: wide
 categories: 
   - "ulasan"
 tags: 

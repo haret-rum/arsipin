@@ -2,6 +2,8 @@
 title: Berebut Tangan Berdarah Sang Penjahat HAM
 date: 2024-12-20
 author: Adyatma Zaki Rabbani
+layout: single
+classes: wide
 categories:
   - esai
 tags:

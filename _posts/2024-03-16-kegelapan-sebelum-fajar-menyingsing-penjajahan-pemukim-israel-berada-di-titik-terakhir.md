@@ -1,6 +1,8 @@
 ---
 title: "Kegelapan sebelum Fajar Menyingsing, Penjajahan Pemukim Israel Berada di Titik Terakhir"
 date: 2024-03-16
+layout: single
+classes: wide
 categories: 
   - "esai"
 tags: 

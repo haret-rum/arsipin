@@ -1,6 +1,8 @@
 ---
 title: "Apa dan Bagaimana Sains Awal Dikonsepsikan? (Bagian I)"
 author: M. Kafabih
+layout: single
+classes: wide
 date: 2025-05-03
 categories: 
   - "sains-dan-agama"

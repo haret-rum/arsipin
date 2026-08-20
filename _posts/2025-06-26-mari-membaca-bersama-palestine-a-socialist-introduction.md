@@ -1,6 +1,8 @@
 ---
 title: "Mari Membaca Bersama Palestine: A Socialist Introduction"
 author: Segara Alam
+layout: single
+classes: wide
 date: 2025-06-26
 categories: 
   - "redaksi"

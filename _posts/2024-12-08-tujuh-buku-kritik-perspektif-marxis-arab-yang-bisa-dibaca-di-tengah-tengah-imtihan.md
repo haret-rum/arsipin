@@ -1,6 +1,8 @@
 ---
 title: "Tujuh Buku Kritik Perspektif Marxis Arab yang Bisa Dibaca di Tengah-Tengah Imtihan"
 author: Segara Alam
+layout: single
+classes: wide
 date: 2024-12-08
 categories: 
   - "ulasan"

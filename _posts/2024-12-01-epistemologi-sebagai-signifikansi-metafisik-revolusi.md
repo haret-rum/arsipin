@@ -1,6 +1,8 @@
 ---
 title: "Epistemologi Sebagai Signifikansi Metafisik Revolusi"
 author: Adyatma Zaki Rabbani
+layout: single
+classes: wide
 date: 2024-12-01
 categories: 
   - "esai"

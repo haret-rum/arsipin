@@ -1,6 +1,8 @@
 ---
 title: "Refleksi tentang Imperialisme: Kekuatan yang Memporak-Porandakan Suriah"
 date: 2024-12-16
+layout: single
+classes: wide
 author: Segara Alam
 categories: 
   - "esai"

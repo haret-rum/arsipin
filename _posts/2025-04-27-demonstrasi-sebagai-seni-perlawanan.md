@@ -1,6 +1,8 @@
 ---
 title: "Demonstrasi Sebagai Seni Perlawanan"
 author: Segara Alam
+layout: single
+classes: wide
 date: 2025-04-27
 categories: 
   - "esai"

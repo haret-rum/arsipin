@@ -1,6 +1,8 @@
 ---
 title: Karena, dalam Sejarah, Ilmu tentang ’Umrān adalah Perlu
 date: 2024-01-13
+layout: single
+classes: wide
 categories:
   - esai
 tags:

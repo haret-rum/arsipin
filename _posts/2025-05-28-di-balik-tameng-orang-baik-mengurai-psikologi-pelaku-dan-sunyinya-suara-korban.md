@@ -2,6 +2,8 @@
 title: "Di Balik Tameng “Orang Baik”: Mengurai Psikologi Pelaku dan Sunyinya Suara Korban"
 author: Naili Mar'atil Fitriya
 date: 2025-05-28
+layout: single
+classes: wide
 categories: 
   - "esai"
 tags: 

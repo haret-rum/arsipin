@@ -1,6 +1,8 @@
 ---
 title: "Huda Sya’rawi; Simbol Kebebasan Perempuan Mesir"
 author: Nikmatul Istiqomah
+layout: single
+classes: wide
 date: 2024-02-03
 categories: 
   - "esai"

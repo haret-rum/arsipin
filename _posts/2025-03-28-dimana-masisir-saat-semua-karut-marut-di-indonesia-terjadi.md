@@ -1,6 +1,8 @@
 ---
 title: "Dimana Masisir saat Semua Karut-Marut di Indonesia Terjadi?"
 author: Adyatma Zaki Rabbani
+layout: single
+classes: wide
 date: 2025-03-28
 categories: 
   - "esai"

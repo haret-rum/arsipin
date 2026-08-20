@@ -2,6 +2,8 @@
 title: "Hikmah Puasa Kita di Tengah Kemubaziran Neoliberalisme"
 date: 2023-04-19
 author: Segara Alam
+layout: single
+classes: wide
 categories: 
   - "esai"
 tags: 

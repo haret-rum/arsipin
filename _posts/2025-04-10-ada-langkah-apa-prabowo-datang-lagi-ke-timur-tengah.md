@@ -1,6 +1,8 @@
 ---
 title: "Ada Langkah Apa, Prabowo Datang (Lagi) ke Timur Tengah?"
 date: 2025-04-10
+layout: single
+classes: wide
 categories: 
   - "redaksi"
 tags: 

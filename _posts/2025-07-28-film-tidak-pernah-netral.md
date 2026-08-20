@@ -1,6 +1,8 @@
 ---
 title: "Film Tidak Pernah Netral"
 author: M. Hikam Mukhbitin
+layout: single
+classes: wide
 date: 2025-07-28
 categories: 
   - "kolom"

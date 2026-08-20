@@ -2,6 +2,8 @@
 title: "Menyalami Prabowo dan Gagal Paham Politik Kerakyatan"
 date: 2024-12-23
 author: Segara Alam
+layout: single
+classes: wide
 categories: 
   - "esai"
 tags: 

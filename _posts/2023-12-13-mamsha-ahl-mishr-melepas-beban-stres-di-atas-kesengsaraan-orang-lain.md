@@ -1,6 +1,8 @@
 ---
 title: "Mamsha Ahl Mishr: Melepas Beban Stres di atas Kesengsaraan Orang Lain"
 date: 2023-12-13
+layout: single
+classes: wide
 author: Segara Alam
 categories: 
   - "esai"

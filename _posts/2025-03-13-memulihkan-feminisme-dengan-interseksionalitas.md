@@ -1,6 +1,8 @@
 ---
 title: "Memulihkan Feminisme dengan Interseksionalitas"
 author: Afi Hidayatun Nafiqoh
+layout: single
+classes: wide
 date: 2025-03-13
 categories: 
   - "esai"

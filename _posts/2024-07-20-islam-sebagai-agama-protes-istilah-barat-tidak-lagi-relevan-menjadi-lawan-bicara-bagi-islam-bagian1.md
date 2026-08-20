@@ -1,6 +1,8 @@
 ---
 title: "Islam sebagai Agama Protes; Istilah “Barat” tidak lagi relevan menjadi lawan bicara bagi Islam (Bagian I)"
 author: Kisthosil Fachim
+layout: single
+classes: wide
 date: 2024-07-20
 categories: 
   - "esai"

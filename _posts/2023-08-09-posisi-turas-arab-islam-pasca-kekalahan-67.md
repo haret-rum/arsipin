@@ -1,6 +1,8 @@
 ---
 title: "Posisi Turas Arab-Islam Pasca-Kekalahan ‘67"
 author: Segara Alam
+layout: single
+classes: wide
 date: 2023-08-09
 categories: 
   - "esai"

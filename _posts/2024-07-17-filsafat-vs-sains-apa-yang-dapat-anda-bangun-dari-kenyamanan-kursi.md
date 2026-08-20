@@ -1,6 +1,8 @@
 ---
 title: "Filsafat vs Sains; Apa Yang Dapat Anda Bangun dari Kenyamanan Kursi?"
 author: M. Kafabih
+layout: single
+classes: wide
 date: 2024-07-17
 categories: 
   - "esai"

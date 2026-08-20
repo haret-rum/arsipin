@@ -1,6 +1,8 @@
 ---
 title: "Jatuh Bangunnya Kemanusiaan"
 author: Kisthosil Fachim
+layout: single
+classes: wide
 date: 2023-04-08
 categories: 
   - "ulasan"

@@ -1,6 +1,8 @@
 ---
 title: "Seni dan Puasa"
 author: M. Kafabih
+layout: single
+classes: wide
 date: 2023-04-15
 categories: 
   - "esai"

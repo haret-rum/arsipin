@@ -1,6 +1,8 @@
 ---
 title: "Membaca Poskolonial Adalah Membaca Diri Sendiri (Bagian 1)"
 author: M. Kafabih
+layout: single
+classes: wide
 date: 2023-08-21
 categories: 
   - "esai"

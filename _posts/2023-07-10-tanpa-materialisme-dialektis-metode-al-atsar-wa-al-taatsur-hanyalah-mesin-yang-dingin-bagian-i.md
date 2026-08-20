@@ -2,6 +2,8 @@
 title: "Tanpa Materialisme-Dialektis, Metode al-‘Atsar wa al-Ta’atsur hanyalah Mesin yang Dingin (Bagian I)"
 author: Segara Alam
 date: 2023-07-10
+layout: single
+classes: wide
 categories: 
   - "esai"
 tags: 

@@ -1,6 +1,8 @@
 ---
 title: "Islam sebagai Agama Protes; Teodisi Pembebasan Islam sebagai Modus Baru Gerakan Perlawanan (Bagian II)"
 author: Kisthosil Fachim
+layout: single
+classes: wide
 date: 2024-09-26
 categories: 
   - "esai"

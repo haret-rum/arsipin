@@ -1,6 +1,8 @@
 ---
 title: "Emisi Perang di Gaza Sebanding dengan Emisi Negara Industri Besar"
 date: 2023-12-14
+layout: single
+classes: wide
 categories: 
   - "esai"
 tags: 

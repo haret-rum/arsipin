@@ -1,6 +1,8 @@
 ---
 title: "Ketika Bourguiba (Seharusnya) Tidak Berbicara Tentang Islam"
 author: M. Kafabih
+layout: single
+classes: wide
 date: 2023-12-28
 categories: 
   - "esai"

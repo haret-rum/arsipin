@@ -1,6 +1,8 @@
 ---
 title: "Kultur Gatekeeping Masisir dan Kenapa Kita Perlu Meruntuhkannya"
 date: 2025-05-26
+layout: single
+classes: wide
 author: Marinda Sekar Ayu
 categories: 
   - "kolom"
