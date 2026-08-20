@@ -87,5 +87,5 @@ Segara Alam:
   avatar      : "assets/images/authors/ResizedImage_2026-02-05_11-51-56_1.png"
   links:
     - label: "website"
-      icon: "fas fa-fw fa-square-globe"
+      icon: "fas fa-fw fa-link"
       url: "https://www.segara-alam.my.id"
