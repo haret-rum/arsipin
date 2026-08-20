@@ -13,6 +13,9 @@ tags:
   - "sekularisme"
   - "tunisia"
   - "zaytouna"
+header:
+  image: assets/images/posts/2023-12-28-ketika-bourguiba-seharusnya-tidak-berbicara-tentang-islam-1787210663950.jpg
+  teaser: assets/images/posts/2023-12-28-ketika-bourguiba-seharusnya-tidak-berbicara-tentang-islam-1787210663950.jpg
 ---
 
 Di tengah-tengah pencarian data mengenai hubungan Islam—sebagai gerakan dan institusi—yang ada di Tunisia, saya menemukan satu tulisan berjudul [“Ketika Habib Bourguiba Bicara Islam”](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiFlOOHkLODAxWgVvEDHbldDzgQFnoECAsQAQ&url=https%3A%2F%2Fwww.kopiah.co%2Fkolom%2Fislam-dan-habib-bourguiba.html&usg=AOvVaw38AzokvWnYSHvReyq5pqfo&opi=89978449). Dengan rasa penasaran untuk memberikan sedikit pemahaman baru, saya akhirnya membaca tulisan esai tersebut. Alih-alih memberikan pandangan yang utuh, tulisan itu justru menyediakan data yang berbeda ketimbang buku-buku yang telah saya baca. Dengan demikian, tulisan ini bukan untuk menolak kesimpulan tersebut, akan tetapi membuka sejauh mana ada “data-data yang dibisukan” (_al-maskut ‘anhu_).

@@ -10,9 +10,12 @@ tags:
   - "humanisme"
   - "kemanusiaan"
   - "kritik"
+header:
+  image: assets/images/posts/2023-04-08-jatuh-bangunnya-kemanusiaan-1787212816650.jpg
+  teaser: assets/images/posts/2023-04-08-jatuh-bangunnya-kemanusiaan-1787212816650.jpg
 ---
 
-> Hardiman, F. Budi _Humanisme dan sesudahnya_ Jakarta, Kepustakaan Gramedia Populer (KPG) 2012 ISBN : 978-979-91-0459-9
+Hardiman, F. Budi <br>_Humanisme dan sesudahnya_ <br>Jakarta, Kepustakaan Gramedia Populer (KPG) 2012 <br>ISBN : 978-979-91-0459-9
 
 Buku Humanisme dan Sesudahnya dicetak pertama kali pada tahun 2012. Dalam kata pengantarnya Budi Hardiman menulis bahwa sebab munculnya buku ini berawal dari undangan seminar yang diadakan oleh Teater Salihara, Jakarta, dengan topik humanisme dan para kritikusnya. Lewat buku ini Budi Hardiman ingin memberikan jembatan penghubung antara kelompok yang menganggap humanisme adalah musuh berbahaya (tradisionalis-ekstrimis) dengan kelompok yang memuja humanisme sebagai berhala intelektual (Modernis-liberal).
 

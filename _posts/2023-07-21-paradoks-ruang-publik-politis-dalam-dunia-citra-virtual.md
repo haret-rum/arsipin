@@ -11,6 +11,9 @@ tags:
   - "ruang-publik"
   - "semiotika"
   - "sosial"
+header:
+  image: assets/images/posts/2023-07-21-paradoks-ruang-publik-politis-dalam-dunia-citra-virtual-1787211293163.webp
+  teaser: assets/images/posts/2023-07-21-paradoks-ruang-publik-politis-dalam-dunia-citra-virtual-1787211293163.webp
 ---
 
 Sejak akhir abad 18, skeptisisme terhadap salah satu produk abad pertengahan, yaitu rasionalitas modern mulai bermunculan. Berawal dari filsuf Nietzsche yang membongkar unsur kekuasaan di balik kedok rasionalitas, kemudian ada Martin Heidegger yang mendestruksi teori metafisika, sampai pada para pemikir pasca-modernis yang menolak sama sekali konsep rasionalitas yang dikembangkan sejak masa pencerahan. Karena bagi mereka, alih-alih menjadi garda terdepan untuk membela dan memperjuangkan tuntutan emansipasi sosial, konsep rasionalitas modern berubah menjadi alat dominasi, mitos dan ideologi dalam sosoknya yang baru.

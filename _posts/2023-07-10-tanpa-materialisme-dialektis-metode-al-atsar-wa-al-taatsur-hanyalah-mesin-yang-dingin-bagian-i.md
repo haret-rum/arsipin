@@ -11,6 +11,9 @@ tags:
   - "metode"
   - "orientalisme"
   - "timur"
+header:
+  image: assets/images/posts/2023-07-10-tanpa-materialisme-dialektis-metode-al-atsar-wa-al-taatsur-hanyalah-mesin-yang-dingin-bagian-i-1787211348815.png
+  teaser: assets/images/posts/2023-07-10-tanpa-materialisme-dialektis-metode-al-atsar-wa-al-taatsur-hanyalah-mesin-yang-dingin-bagian-i-1787211348815.png
 ---
 
 Terdapat empat metode pokok yang digunakan oleh para orientalis dalam mengkaji peradaban Arab-Islam (Hanafi, 2019: 75), yaitu metode historis, metode analitis, metode proyektif, dan _al-‘atsar wa al-ta’atsur_ atau _al-ta’tsīr wa al-ta’atsur_ yang penulis terjemahkan dengan ‘metode kesaling-pengaruhan’_._ Metode terakhir bagi penulis menarik untuk diperbincangkan. Alasannya, di samping memang banyak digunakan oleh para orientalis, metode ini layaknya benang kusut yang menguntai dalam fabrikasi wacana kolonialisme bahkan setelah Arab-Islam menemukan kemerdekaannya. Wacana-wacana yang lahir sebagai efek kolonial seperti ke-diri-an,  ke-lain-an, hibriditas, mimikri, sering kali, disadari atau tidak, mengemuka melalui penarikan benang kusut ini. Perihal metode _al-‘atsar wa al-ta’atsur_ hubungannya dengan kolonialisme tidak akan secara langsung disinggung dalam tulisan ini. Apa yang akan dibahas di dalam tulisan ini adalah metode _al-‘atsar wa al-ta’atsur_ sebagai metode itu sendiri.

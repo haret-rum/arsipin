@@ -9,6 +9,9 @@ tags:
   - "forum"
   - "kesadaran"
   - "masisir"
+header:
+  image: assets/images/posts/2025-04-12-catatan-5w1h-spri-forum-diskusi-tapi-dituntut-menyulap-solusi-1787213385965.webp
+  teaser: assets/images/posts/2025-04-12-catatan-5w1h-spri-forum-diskusi-tapi-dituntut-menyulap-solusi-1787213385965.webp
 ---
 
 Beberapa hari lalu, saya mengikuti sebuah forum diskusi mahasiswa Indonesia di Mesir yang membahas dinamika politik Indonesia—terutama polemik Rancangan Undang-Undang TNI. Acara ini bertajuk “5W1H Situasi Politik Rakyat Indonesia”. Saya memahami forum ini sebagai ekspresi semangat mahasiswa dalam _binaul wa’iy_ (membangun kesadaran) kolektif di tengah ketidakmenentuan dan ancaman situasi politik di tanah air.

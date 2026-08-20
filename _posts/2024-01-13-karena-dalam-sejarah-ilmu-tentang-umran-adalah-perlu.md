@@ -1,17 +1,22 @@
 ---
-title: "Karena, dalam Sejarah, Ilmu tentang ’Umrān adalah Perlu"
+title: Karena, dalam Sejarah, Ilmu tentang ’Umrān adalah Perlu
 date: 2024-01-13
-categories: 
-  - "esai"
-tags: 
-  - "durkheim"
-  - "filsafat-sejarah"
-  - "ibnu-khaldun"
-  - "ilmu-sejarah"
-  - "mahdi-amil"
-  - "sejarah"
-  - "sosiologi"
-  - "umran"
+categories:
+  - esai
+tags:
+  - durkheim
+  - filsafat-sejarah
+  - ibnu-khaldun
+  - ilmu-sejarah
+  - mahdi-amil
+  - sejarah
+  - sosiologi
+  - umran
+author:
+  - Segara Alam
+header:
+  image: assets/images/posts/2024-01-13-karena-dalam-sejarah-ilmu-tentang-umran-adalah-perlu-1787214082642.jpg
+  teaser: assets/images/posts/2024-01-13-karena-dalam-sejarah-ilmu-tentang-umran-adalah-perlu-1787214082642.jpg
 ---
 
 Di [tulisan sebelumnya](https://arsipin.site/2024/01/05/kritik-ibnu-khaldun-terhadap-sejarah-yang-empiris/) kita memperoleh kesimpulan bahwa Ibnu Khaldun melampaui pandangan yang empiris atas sejarah. Ia adalah seorang realis secara epistemologis. Dalam arti bahwa ia mendasarkan gejala sejarah hadir secara objektif dan independen terhadap pengetahuan “kita” atas gejala tersebut, sehingga melampaui kesan-kesan indrawi dan postulat “kita” tentangnya. Bukan berarti salah seandainya banyak pengkaji secara filosofis dalam batas-batas tertentu mempersamakan Ibnu Khaldun dengan Ibnu Taimiyyah yang mengakui hal ihwal sebagai _al-wāqi’iyyah al-khārijiyyah_ (kenyataan eksternal)[\[1\]](#_ftn1). Yang-ada dipahami oleh Ibnu Khaldun secara _in re,_ ada pada dirinya sendiri, bukan _in intellectu,_ ada pada pikiran.

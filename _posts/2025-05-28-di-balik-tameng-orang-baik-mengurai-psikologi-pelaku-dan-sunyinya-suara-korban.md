@@ -11,6 +11,9 @@ tags:
   - "perempuan"
   - "psikologi"
   - "ruang-publik"
+header:
+  image: assets/images/posts/2025-05-28-di-balik-tameng-orang-baik-mengurai-psikologi-pelaku-dan-sunyinya-suara-korban-1787211637485.webp
+  teaser: assets/images/posts/2025-05-28-di-balik-tameng-orang-baik-mengurai-psikologi-pelaku-dan-sunyinya-suara-korban-1787211637485.webp
 ---
 
 Dalam setiap kasus kekerasan seksual, sorotan masyarakat kerap kali tertuju pada siapa pelakunya, alih-alih pada kejahatan itu sendiri. Ketika pelaku adalah seseorang yang selama ini dikenal sebagai sosok teladan—ayah yang penyayang, guru yang inspiratif, pemuka agama, atau atasan yang murah senyum—, opini publik cenderung melunak. “dia orang baik, tidak mungkin melakukan itu” menjadi tameng pertama yang menutupi kejahatan dari kasus kekerasan yang terjadi. Inilah paradoks moralitas kita: penilaian terhadap seseorang yang yang dikenal baik sering kali membuat kita menolak kemungkinan bahwa ia juga mampu melakukan kejahatan.

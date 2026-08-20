@@ -10,9 +10,12 @@ tags:
   - "materialisme"
   - "sejarah"
   - "umran"
+header:
+  image: assets/images/posts/2024-02-12-proto-materialisme-dialektika-historis-ibnu-khaldun-1787213900990.jpg
+  teaser: assets/images/posts/2024-02-12-proto-materialisme-dialektika-historis-ibnu-khaldun-1787213900990.jpg
 ---
 
-Yves Lacoste Al-ʿAllāmah Ibn Khaldūn Dār al-Fārābī, Beirut, 2017. Cet II. 127 hlm. ISBN 978 614 432 648 0
+Yves Lacoste <br>*Al-ʿAllāmah Ibn Khaldūn* <br>Dār al-Fārābī Beirut, 2017. Cet II. 127 hlm. <br>ISBN 978 614 432 648 0
 
 Bagaimanakah _Muqaddimah_ seandainya ia dibaca ulang sebagai proto-materialisme dialektika historis? _Muqaddimah_, yang ditulis oleh Ibnu Khaldun (1332-1406 M) memang telah menciptakan nuansa baru dalam konstruksi pengetahuan Abad Pertengahan Islam, tetapi untuk menyebutnya sebagai proto-materialisme dialektika historis (proto-MDH), sebagai hal yang mendahului metode Karl Marx, tentu sekilas terdengar sumbang di telinga kita.
 

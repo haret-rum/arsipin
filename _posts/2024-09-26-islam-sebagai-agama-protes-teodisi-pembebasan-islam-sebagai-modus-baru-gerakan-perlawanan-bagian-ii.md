@@ -12,6 +12,9 @@ tags:
   - "situs-perlawanan"
   - "teodisi-pembebasan"
   - "teologi-pembebasan"
+header:
+  image: assets/images/posts/2024-09-26-islam-sebagai-agama-protes-teodisi-pembebasan-islam-sebagai-modus-baru-gerakan-perlawanan-bagian-ii-1787212494833.jpg
+  teaser: assets/images/posts/2024-09-26-islam-sebagai-agama-protes-teodisi-pembebasan-islam-sebagai-modus-baru-gerakan-perlawanan-bagian-ii-1787212494833.jpg
 ---
 
 Apa yang hari ini kita sebut sebagai "Islam" diciptakan di tengah-tengah kesenjangan kolonial, sebagai sebuah metanarasi perlawanan atas metanarasi dominasi Barat. Sebagai sebuah agama dunia, Islam secara kategoris diciptakan kembali selama abad ke-19 dan ke-20 sebagai sebuah situs perlawanan ideologis terhadap modernitas kolonial. Mutasi bertahap, dari Islam sebagai kepercayaan leluhur suatu masyarakat, menjadi Ideologi Islam (islamisme) sebagai situs perlawanan politik terhadap kolonialisme, sejalan dengan dua proyek yang saling melengkapi; yaitu modernitas dan pencerahan Eropa.

@@ -9,6 +9,9 @@ tags:
   - "indonesia-gelap"
   - "masisir"
   - "politik"
+header:
+  image: assets/images/posts/2025-03-28-dimana-masisir-saat-semua-karut-marut-di-indonesia-terjadi-1787210852896.jpg
+  teaser: assets/images/posts/2025-03-28-dimana-masisir-saat-semua-karut-marut-di-indonesia-terjadi-1787210852896.jpg
 ---
 
 Tak henti-hentinya media sosial kita dibombardir dengan kabar-kabar buruk dari negara kita tercinta. Bahkan rasanya sejak Prabowo dilantik lima bulan lalu, rakyat sudah kehilangan nikmatnya bernapas dan merasa pengap hidup di bumi pertiwi akibat kabar-kabar buruk itu. Terlebih lagi ketika rakyat mendapati adanya rapat yang dilakukan diam-diam dan tertutup di salah satu hotel mewah mengenai RUU TNI, seketika amarah membuncah dan meledak menjadi serial aksi demo ketidakpuasan dan ketidakpercayaan yang terjadi di berbagai kota seperti Jakarta, Bandung, Malang, dan beragam kota lainnya.

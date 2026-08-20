@@ -11,17 +11,13 @@ tags:
   - "masisir"
   - "palestina"
 header:
-  image: assets/images/posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction-1787049782410.jpg
-  teaser: assets/images/posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction-1787049782410.jpg
+  image: assets/images/posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction-1787211839877.png
+  teaser: assets/images/posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction-1787211839877.png
 ---
-
-## Mari Membaca Bersama “Palestine: A Socialist Introduction”
 
 Di bulan mendatang, ABC Marxisme (Arsipin Book Club) akan beristirahat sejenak dari teks-teks klasik Marx. Pada tahun lalu, kami sibuk menguliti buku-buku pengantar Das Kapital dengan beberapa kali merujuk pada Das Kapital itu sendiri. Kemudian Ramadhan yang lalu kami menyelingi ibadah kami dengan tadarrus Manifesto Komunis. Sekarang, semakin gelapnya situasi di Palestina mendorong kami untuk mengkaji dan, utamanya, mempersenjatai solidaritas kami untuk Palestina dengan pemikiran-pemikiran politik dalam perspektif sosialis. Dan pintu pertama yang hendak kami masuki adalah sebuah buku pengantar berjudul **“Palestine: A Socialist Introduction”** yang ditulis oleh para aktivis Palestina dan disunting oleh Sumaya Awad dan Brian Bean. Teman-teman budiman boleh sekali bergabung di ABC Marxisme ini: [download ebook](https://www.haymarketbooks.org/books/1558-palestine-a-socialist-introduction) dan daftar dengan mengisi [formulir ini](https://docs.google.com/forms/d/e/1FAIpQLSf6tp0L6DoTnBHyyGPLq6KGcEC9q-U5vtOe7tEWv_F2Z-fJgA/viewform?usp=header).
 
-![](http://arsipin.site/wp-content/uploads/2025/06/9781642592764_f_feature_retina_54a0b90733e6222bea3d3f153c4099af-200x300.jpg)
-
- 
+![](/arsipin/assets/images/posts/2025-06-26-mari-membaca-bersama-palestine-a-socialist-introduction-1787049782410.jpg)
 
 Ide untuk mengkaji buku ini muncul ketika kami disodorkan di depan muka kami sendiri berbagai opini masisir merespons larangan pemerintahan Mesir, dengan berbagai pendapat dan alasannya, atas berlangsungnya Global March To Gaza yang sedang berlangsung. Entah pendapat itu menyetujui pemerintahan Mesir, dengan alasan yang sepaket dengan membersihkan nama baik Al-Azhar (yang notabene sikap dominan para ulamanya menunjukkan relasi takamuli dengan pemerintah) atau tanpa pendapat terhadap sikap Mesir, dibarengi dengan berbagai argumen geopolitik yang, sayang sekali, dipikirkan secara reduktif; maksudnya, susunan argumen yang mengandaikan seolah negara adalah hasil personifikasi yang terlepas dari dinamika internalnya, atau susunan argumen yang hanya fokus pada kepentingan figur politik yang secara “diplomatis” mewakili negara tersebut, tanpa pernah melihat bagaimana hubungan figur tersebut dengan dinamika politik masyarakat dan diferensiasi kelas di negaranya sendiri. Negara seolah adalah entitas tunggal, homogen dan satu suara. Cara pandang terakhir sebenarnya telah diupayakan proses dekolonisasinya oleh para pemikir yang bergelut di bidang HI, dikarenakan wataknya yang eurosentris.
 
@@ -45,7 +41,7 @@ Mari kita bertanya…
 
 Apakah Netanyahu adalah lakon utama? Ataukah lainnya? Bagaimana dengan rezim-rezim Arab yang reaksioner itu?
 
-\*\*\*
+---
 
 Akibat kebodohan kita tentang dinamika politik pada isu Palestina, kita rawan tergelincir ketika mengidentifikasi masalah. Problemnya tidak semua masalah tampak jelas di mata. Terdapat masalah-masalah yang sifatnya tersembunyi, laten dan terus bekerja di balik layar. Dan masalah tersebut salah satunya dapat disingkapkan dengan proses membaca secara ilmiah dan jeli.
 

@@ -12,7 +12,7 @@ tags:
   - "tradisi"
 header:
   image: assets/images/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049457936.jpg
-  image: assets/images/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049457936.jpg
+  teaser: assets/images/posts/2024-12-08-tujuh-buku-kritik-perspektif-marxis-arab-yang-bisa-dibaca-di-tengah-tengah-imtihan-1787049457936.jpg
 ---
 
 Sebagian besar masisir yang menggiati dunia pemikiran Islam dan Arab, lebih-lebih maba, biasanya tak jauh-jauh dari pemikiran Hasan Hanafi, Abid Al-Jabiri, Arkoun dan pemikir-pemikir lain yang bagi orang awam disebut-sebut pemikir liberal. Pemikiran dan gagasan dari barisan pemikir ini biasanya dibaca dengan penuh kekaguman dan hasrat emansipatif di hadapan tradisi berpikir yang mapan dan membelenggu. Alasan lainnya adalah barisan pemikir inilah yang terdengar di Indonesia, khususnya bagi maba yang dekat dengan abang-abangan UIN.

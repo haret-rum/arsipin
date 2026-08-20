@@ -10,6 +10,9 @@ tags:
   - "puasa"
   - "semiotika"
   - "seni"
+header:
+  image: assets/images/posts/2023-04-15-seni-dan-puasa-1787213151207.jpg
+  teaser: assets/images/posts/2023-04-15-seni-dan-puasa-1787213151207.jpg
 ---
 
 Kiranya, kita—Anda dan saya—telah menjumpai dari bulan Ramadan, dan (semoga) akan berhias diri untuk menemui sisa-sisa terakhir di bulan ini dengan segala ketundukan dan kepasrahan. Akan tetapi, tak pernahkah kita selalu bertanya kepada diri sendiri tentang bagaimana puasa itu dijalani? Nilai estetika seperti apa yang hendak diungkapkan oleh bahasa Tuhan melalui puasa? Dan terakhir, bagaimana puasa menyadarkan kita tentang _dunia-sekarang_ yang terjadi saat ini?

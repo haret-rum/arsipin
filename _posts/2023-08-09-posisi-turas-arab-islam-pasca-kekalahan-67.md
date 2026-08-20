@@ -13,11 +13,10 @@ tags:
   - "krisis"
   - "pemikiran"
   - "turas"
+header:
+  image: assets/images/posts/2023-08-09-posisi-turas-arab-islam-pasca-kekalahan-67-1787211232607.webp
+  teaser: assets/images/posts/2023-08-09-posisi-turas-arab-islam-pasca-kekalahan-67-1787211232607.webp
 ---
-
-```
-(file .pdf dapat diakses di sini)
-```
 
 Sebelum melakukan tinjauan atas pengaruh kekalahan Arab pada 1967 terhadap perkembangan pemikiran Islam—terutama terkait turas—kontemporer, perlu secara ringkas memetakan beberapa kecenderungan pemikiran sebelum fenomena tersebut terjadi. Secara umum dalam rentang waktu kolonial Inggris-Perancis hingga kekalahan ‘67, terdapat empat kecenderungan pemikiran[\[1\]](#_ftn1): pertama, Nasionalisme yang mencakup Nasserisme dan Ba’thisme di Suriah dan Irak. Kedua, Marxisme yang tergabung dalam organisasi pembebasan (seperti PLO) dan partai-partai komunis. Ketiga, Islamisme yang diwakili oleh kebanyakan ulama salaf, termasuk para Mullah Iran. _Keempat,_ Liberalisme yang berkonvergensi dalam kecenderungan-kecenderungan di atas, terutama di sayap kanan.
 

@@ -11,6 +11,9 @@ tags:
   - "resetindonesia"
   - "revolusi"
   - "sosial"
+header:
+  image: assets/images/posts/2025-09-04-aksi-massa-dan-ormas-islam-1787211743709.png
+  teaser: assets/images/posts/2025-09-04-aksi-massa-dan-ormas-islam-1787211743709.png
 ---
 
 Seminggu lebih telah berlalu sejak aksi massa meletus. Ini adalah jeda pertama di fase permulaan revolusi untuk menyudahi penderitaan rakyat di bawah kekuasan tirani. Pada tanggal 28 Agustus lalu, seorang pengemudi ojol, Affan Kurniawan, ditindas dan dilindas rantis Brimob sebesar 4,8 ton tatkala aksi massa berlangsung.[\[1\]](#_ftn1) Kematian Affan di kemudian hari mengundang aksi massa yang lebih luas (29/8), membuncahkan amarah mereka untuk menagih lebih keras lagi tanggung jawab rezim status quo.[\[2\]](#_ftn2) Ironisnya di hari berikutnya (30/8) para pemuka agama Islam di beberapa ormas justru menerima undangan ke Hambalang untuk berkonsolidasi dengan presiden.[\[3\]](#_ftn3)

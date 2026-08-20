@@ -10,6 +10,9 @@ tags:
   - "filsafat"
   - "indonesiagelap"
   - "perlawanan"
+header:
+  image: assets/images/posts/2025-04-27-demonstrasi-sebagai-seni-perlawanan-1787210765768.jpg
+  teaser: assets/images/posts/2025-04-27-demonstrasi-sebagai-seni-perlawanan-1787210765768.jpg
 ---
 
 Beberapa bulan terakhir, kita menyaksikan bertubi-tubi aksi protes dan demonstrasi  merebak di lebih dari lima puluh titik di berbagai wilayah Indonesia. Beragam unsur tergabung dalam demo tersebut, mencakup buruh, dokter, dosen, komunitas ibu-ibu, i_nfluencer_, dan mahasiswa sebagai barisan terdepan. Tagar #IndonesiaGelap mewakili kesadaran kolektif bahwa tatanan di mana negara ini bertumpu, yang bahkan dipelihara sejak rezim Harto, telah menjatuhkan rakyat Indonesia ke lubang kegelapan.

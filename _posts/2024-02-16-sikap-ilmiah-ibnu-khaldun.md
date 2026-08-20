@@ -11,9 +11,12 @@ tags:
   - "mahdi-amil"
   - "sejarah"
   - "umran"
+header:
+  image: assets/images/posts/2024-02-16-sikap-ilmiah-ibnu-khaldun-1787213577461.jpg
+  teaser: assets/images/posts/2024-02-16-sikap-ilmiah-ibnu-khaldun-1787213577461.jpg
 ---
 
-Mahdi Amil _Fī ʿilmiyyat al-Fikr al-Khaldūnī_ Dār al-Fārābī, Beirut, 2006. Cet IV. 127 hlm. ISBN 9953 71 124 0
+Mahdi Amil <br>_Fī ʿilmiyyat al-Fikr al-Khaldūnī_ <br>Dār al-Fārābī, Beirut, 2006. Cet IV. 127 hlm. <br>ISBN 9953 71 124 0
 
 Mahdi Amil (1936-1987 M.) berpendapat bahwa membaca kembali _Muqaddimah_ Ibnu Khaldun merupakan hal menarik untuk dikerjakan karena Ibnu Khaldun melalui _Muqaddimahnya_ telah menciptakan ‘patahan epistemologis’ terhadap konstruksi ilmu pengetahuan Islam. ‘Patahan epistemologis’ ini secara konseptual Amil pinjam dari _epistemological rupture_ Gaston Bachelard, atau dalam bahasa Arab Amil terjemahkan dengan _al-ʿāiq al-maʿrifī._ Lebih lanjut, pandangan tentang ‘patahan epistemologis’ Ibnu Khaldun ia jelaskan dalam buku _Fī ʿilmiyyat al-Fikr al-Khaldūnī,_ pertama kali terbit tahun 1985.
 

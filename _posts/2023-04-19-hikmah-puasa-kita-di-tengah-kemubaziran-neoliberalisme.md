@@ -11,6 +11,9 @@ tags:
   - "puasa"
   - "ramadan"
   - "sosial"
+header:
+  image: assets/images/posts/2023-04-19-hikmah-puasa-kita-di-tengah-kemubaziran-neoliberalisme-1787213944773.png
+  teaser: assets/images/posts/2023-04-19-hikmah-puasa-kita-di-tengah-kemubaziran-neoliberalisme-1787213944773.png
 ---
 
 Di hadapan Neoliberalisme, puasa Ramadan adalah riuh perayaan besar di mana keberislaman dan spiritualitas disambut oleh pasar global. Kita tidak cukup menyaksikan produk-produk ‘Islam’ dan ‘Ramadan’, seperti kurma—sebentar lagi ketupat—yang menghiasi pendar-pendar beranda _olshop_, melainkan penggerusan solidaritas sosial, pengerdilan kebaikan-kebaikan sosial oleh Neoliberalisme demi dapat mendulang laba-laba yang lebih besar, seperti seorang ustadz yang bersedia untuk disiarkan di televisi demi kebaikan masyarakat, namun tetap harus tunduk kepada keinginan pasar dan kanal-kanal dari mana laba bermuara. Ia disiarkan di antara tontonan lain; artis-artis yang mendadak berjilbab dan sinetron-sinetron yang tetiba bernuansa religi. Agama dijatuhkan pada sekedar kalkulasi untung-rugi. Di dalam neoliberalisme, sekalipun manusia berpuasa menahan lapar, dahaga dan nafsu angkara, mereka tetap menjadi _homo oeconomicus_; Ramadan diperlakukan sebagai oase pasar, dan umat Muslim sebagai binatang-binatang yang mengerumuninya.

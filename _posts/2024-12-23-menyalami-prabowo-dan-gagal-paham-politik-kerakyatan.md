@@ -10,6 +10,9 @@ tags:
   - "politik"
   - "prabowo"
   - "rakyat"
+header:
+  image: assets/images/posts/2024-12-23-menyalami-prabowo-dan-gagal-paham-politik-kerakyatan-1787211408629.webp
+  teaser: assets/images/posts/2024-12-23-menyalami-prabowo-dan-gagal-paham-politik-kerakyatan-1787211408629.webp
 ---
 
 Pada Sabtu kemarin (20/12) Bung Zaki telah menuliskan [empat kemungkinan](https://arsipin.site/2024/12/20/berebut-tangan-berdarah-sang-penjahat-ham/) bagi sikap berlebihan masisir dalam menyalami Presiden Indonesia. Empat Kemungkinan itu boleh jadi salah satunya (misalnya _riding the wave_ saja) atau kesemuanya (misal _riding the wave_ dan kesadaran palsu atau keempat kemungkinan sekaligus) ada secara bersamaan dalam mendorong sikap berlebihan itu.

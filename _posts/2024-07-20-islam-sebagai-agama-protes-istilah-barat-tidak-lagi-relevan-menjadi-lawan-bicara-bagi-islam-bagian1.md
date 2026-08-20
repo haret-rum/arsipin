@@ -10,6 +10,9 @@ tags:
   - "islam"
   - "posmodernisme"
   - "teologi-pembebasan"
+header:
+  image: assets/images/posts/2024-07-20-islam-sebagai-agama-protes-istilah-barat-tidak-lagi-relevan-menjadi-lawan-bicara-bagi-islam-bagian1-1787211076497.png
+  teaser: assets/images/posts/2024-07-20-islam-sebagai-agama-protes-istilah-barat-tidak-lagi-relevan-menjadi-lawan-bicara-bagi-islam-bagian1-1787211076497.png
 ---
 
 Di dekade pertama abad 21 dunia dihiasi kabar tentang pembunuhan, pembantaian dan pertikaian antar umat manusia. Berita utama harian seluruh dunia dipenuhi laporan serangan-serangan teroris di Eropa dan invasi militer AS di Timur Tengah. Setiap hari selalu ada laporan jumlah korban jiwa dari serangan teroris dan pembantaian AS di Timur Tengah. Di tengah-tengah spiral ketakutan dan kemarahan yang kejam ini, ‘Islam dan Barat’ sekali lagi diajukan sebagai kategori utama dari konfrontasi global antar dua musuh yang tidak bisa dipisahkan.

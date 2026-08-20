@@ -1,6 +1,6 @@
 ---
 title: "Dari Shūriy ke Māddiy: Ibn Khaldun Menabrak Mantiq Qadim"
-author: I.S. Savirta
+author: I. S. Savirta
 date: 2024-02-20
 categories: 
   - "ulasan"
@@ -11,9 +11,12 @@ tags:
   - "mantiq"
   - "sejarah"
   - "umran"
+header:
+  image: assets/images/posts/2024-02-20-dari-shuriy-ke-maddiy-ibn-khaldun-menabrak-mantiq-qadim-1787212189055.jpg
+  teaser: assets/images/posts/2024-02-20-dari-shuriy-ke-maddiy-ibn-khaldun-menabrak-mantiq-qadim-1787212189055.jpg
 ---
 
-Ali al-Wardi _Mantiq Ibn Khaldūn fī Dhaw’i Hadharatihi wa Syakhsyiyatihi_ Dār Kūfān, Beirut, 1984. Cet. II. 287 hlm. ISBN 1-1- 898124-06-3
+Ali al-Wardi <br>_Mantiq Ibn Khaldūn fī Dhaw’i Hadharatihi wa Syakhsyiyatihi_ <br>Dār Kūfān, Beirut, 1984. Cet. II. 287 hlm.<br> ISBN 1-1- 898124-06-3
 
 Dalam pengantar bukunya, al-Wardi menyitir satu kesimpulan yang telah Muhsin Mahdi tulis. Kesimpulan itu serupa bara api yang membuat Ali al-Wardi bergejolak. Muhsin Mahdi mengatakan bahwa Ibn Khaldun, dalam menuliskan teori sosialnya, mengikuti kerangka para pendahulunya. Ia tak lain dari murid rajin yang meringkas filsafat lama, terutama milik Ibn Rusyd, tanpa harus mengubah dan meragukannya. Ia adalah pemikir yang telah membangun teori sosialnya melalui filsafat dan logika lama (hlm.12). Al-Wardi secara tegas membantah dan menjelaskan bahwa Ibn Khaldun telah menabrak logika para pendahulunya. Ia menabrak filsafat lama secara umum, dan logika aristotelian secara khusus (hlm.13).
 

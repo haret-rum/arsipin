@@ -10,8 +10,8 @@ tags:
   - "metafisik"
   - "revolusi"
 header:
-  image: assets/images/posts/2024-12-01-epistemologi-sebagai-signifikansi-metafisik-revolusi-1787049718728.jpeg
-  teaser: assets/images/posts/2024-12-01-epistemologi-sebagai-signifikansi-metafisik-revolusi-1787049718728.jpeg
+  image: assets/images/posts/2024-12-01-epistemologi-sebagai-signifikansi-metafisik-revolusi-1787210995295.jpg
+  teaser: assets/images/posts/2024-12-01-epistemologi-sebagai-signifikansi-metafisik-revolusi-1787210995295.jpg
 ---
 
 Revolusi adalah salah satu momen krusial yang lahir dari akumulasi keresahan masyarakat terhadap pemerintah. Namun, revolusi sejatinya bukan hanya sekadar transformasi politik, melainkan juga memiliki aspek metafisik dan epistemologis yang menjadi cikal bakal terciptanya aktivitas tersebut. Tulisan ini bertujuan untuk mengeksplorasi bagaimana epistemologi dapat memberi signifikansi metafisik pada aktivitas revolusi, serta memperluas maknanya sebagai upaya transformatif multidimensi.

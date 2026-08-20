@@ -10,6 +10,9 @@ tags:
   - "filsafat"
   - "sains"
   - "stephen-law"
+header:
+  image: assets/images/posts/2024-07-17-filsafat-vs-sains-apa-yang-dapat-anda-bangun-dari-kenyamanan-kursi-1787210560580.jpg
+  teaser: assets/images/posts/2024-07-17-filsafat-vs-sains-apa-yang-dapat-anda-bangun-dari-kenyamanan-kursi-1787210560580.jpg
 ---
 
 Menurut banyak orang, filsafat pada pokoknya adalah disiplin kursi (_An armchair discipline_). Kerja filsafat adalah mencari tahu (tentang sesuatu) pada tingkat logika dan konsep. Sama seperti teka-teki matematika, catur, logika, silang kata, dan sudoku, jika teka-teki filsafat dapat dipecahkan oleh semuanya, maka hal itu dapat dipecahkan di dalam pikiran. Kita tidak butuh observasi dunia luar untuk memecahkannya. Yang kita butuhkan adalah duduk di atas kursi kesayangan, tutup mata, memakai headset dan berpikir.

@@ -11,6 +11,9 @@ tags:
   - "realitas"
   - "tajdid"
   - "ushul-fikih"
+header:
+  image: assets/images/posts/2023-08-24-islam-dan-realitas-qiyas-dalam-paradigma-kontemporer-2-1787210723269.jpg
+  teaser: assets/images/posts/2023-08-24-islam-dan-realitas-qiyas-dalam-paradigma-kontemporer-2-1787210723269.jpg
 ---
 
 Sebuah realitas tidak akan pernah menemukan bentuk finalnya, ia akan terus berkembang dan berdinamika tanpa henti. Realitas juga tidak pernah stagnan dan berdiam diri, ia selalu bergerak maju ke arah yang ia kehendaki. Manusia tidak akan pernah bisa menghentikan gerak realitas. Oleh karenanya, istilah pembaharuan selalu melekat dan tak terpisahkan dari realitas. Pembaharuan menjadi penanda untuk membedakan antara realitas yang satu dan realitas lainnya. Unsur pembentuk realitas, seperti manusia, fenomena dan kondisi geografis juga menjadi unsur primordial dalam sebuah fenomena pembaharuan. Namun begitu, manusia dan fenomena-fenomena yang terjadi, juga terpengaruh oleh realitas lanjutan yang membungkusnya.

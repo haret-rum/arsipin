@@ -10,6 +10,9 @@ tags:
   - "filsafat-alam"
   - "sains"
   - "sejarah-sains"
+header:
+  image: assets/images/posts/2025-05-03-apa-dan-bagaimana-sains-awal-dikonsepsikan-bagian-i-1787210928742.jpg
+  teaser: assets/images/posts/2025-05-03-apa-dan-bagaimana-sains-awal-dikonsepsikan-bagian-i-1787210928742.jpg
 ---
 
 Jika Anda mengamati media sosial _Facebook_ sekitar empat tahun lalu, tatkala maraknya wabah Covid19, Anda akan menjumpai perdebatan menarik dari para tokoh-tokoh kita yang memiliki beragam kecenderungan, mulai dari ahli filsafat, agamawan, intelektual, budayawan dan seterusnya. Perdebatan itu memuat suatu polemik tentang sains, agama dan filsafat—suatu perdebatan yang tak akan pernah selesai(?). Dari sana, dinamika meletup tiba-tiba. Mungkin saja ini karena mereka memiliki banyak waktu di rumah sambil membaca.

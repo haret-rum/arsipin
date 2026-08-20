@@ -10,6 +10,9 @@ tags:
   - "kebudayaan"
   - "politik"
   - "turang"
+header:
+  image: assets/images/posts/2025-07-28-film-tidak-pernah-netral-1787213023223.webp
+  teaser: assets/images/posts/2025-07-28-film-tidak-pernah-netral-1787213023223.webp
 ---
 
 Film _Turang_ (1957) karya sutradara Bachtiar Siagian secara tidak sengaja ditemukan oleh seorang seniman video asal Uzbekistan. Suatu hari di tahun 2024, ia mengakses arsip Gosfilmofond di Rusia dan menjumpai sebuah berkas film dengan judul _Turang._ Tidak ada nama sutradara, tidak ada sinopsis. Hanya judul.

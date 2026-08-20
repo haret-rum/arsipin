@@ -10,6 +10,9 @@ tags:
   - "penandaan"
   - "perempuan"
   - "semiotika"
+header:
+  image: assets/images/posts/2023-04-03-ayat-ayat-perempuan-1787213282686.jpg
+  teaser: assets/images/posts/2023-04-03-ayat-ayat-perempuan-1787213282686.jpg
 ---
 
 Ada perbedaan makna yang terjadi antara mengapa dan bagaimana pada persoalan perempuan, khususnya ketika berkaitan dengan eksploitasi, marginalisasi dan seterusnya. Implikasi pada pertanyaan “mengapa” adalah selubung tipu daya — pembungkaman fakta atas apa yang terjadi pada perempuan hari ini. Melalui jejaring ideologi dan dominasi, pengetahuan dan kultur kebudayaan telah dikuasa-ciptakan oleh sistem-budaya kapitalisme — yang barangkali bisa dikatakan terlambat ketika baru disadari hari ini. Penekanannya terletak pada ketidaksadaran manusia modern atas apa yang terjadi pada kondisi sosial sekitarnya. Sedangkan pertanyaan kedua justru sebaliknya. Pertanyaan “bagaimana” mengandaikan konsep, proses dan hasil yang perlu kita selidiki. Sehingga, muncul pertanyaan-pertanyaan selanjutnya; Seperti apa perempuan dipasung dalam wacana kapitalisme? Pertanyaan ini — juga pertanyaan yang akan diajukan selanjutnya — adalah pertanyaan analisa yang perlu diulas secara tuntas.
