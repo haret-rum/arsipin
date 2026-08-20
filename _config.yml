@@ -19,16 +19,16 @@ direction                : # "ltr" (default), "rtl" # set the direction of the p
 title                    : " "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-url                      : https://haret-rum.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /arsipin # the subpath of your site, e.g. "/blog"
+url                      : "https://arsipin.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 logo                     : "assets/images/logo/Logo Arsipin transparan.png" # path to your logo image, e.g. "/assets/images/logo.png"
-repository               : haret-rum/arsipin # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "haret-rum/arsipin" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 150
 enable_copy_code_button  : true # true, false (default)
 copyright                : "Arsipin" # "copyright" name, defaults to site.title
-copyright_url            : "https://haret-rum.github.io/arsipin/" # "copyright" URL, defaults to site.url
+copyright_url            : "https://arsipin.com" # "copyright" URL, defaults to site.url
 comments:
   provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
