@@ -15,6 +15,12 @@ tags:
 header:
   image: assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211507177.webp
   teaser: assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211507177.webp
+gallery:
+- url: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575707.webp
+- url: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575704.webp
+- url: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575702.webp
+- url: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575699.webp
+- url: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575668.webp
 ---
 
 Bagai upacara bendera di tengah padang pasir, kunjungan Presiden Prabowo bertanggal 17 Desember 2024 di Mesir menjadi tontonan ganjil yang mengundang tepuk tangan sekaligus geleng kepala. Di satu sisi, ia adalah simbol tertinggi negara; di sisi lain, terlihat absurditas relasi antara kekuasaan dan elemen diaspora mahasiswa yang kehilangan arah. Sebagian besar mahasiswa berkerumun mengelu-elukan rombongan istana dengan senyum mengembang, bahkan berebut berjabat tangan hingga membuat salah satu _masyayikh_ Al-Azhar hampir terjatuh, sementara sebagian yang lain berbisik lirih di obrolan WhatsApp: _“sangat memalukan, berebut tangan ber__lumuran_ _darah.”_
@@ -45,10 +51,6 @@ Setelah hampir 4 bulan semenjak ziarah pertamanya ke Mesir, banyak kebijakan sew
 
 Kegusaran kedua, saya teringat kunjungan Presiden Soeharto ke Mesir pada 1998 di tengah gejolak demonstrasi di Indonesia. Konteks lebih lanjut bisa dicari dan dikaitkan sendiri oleh pembaca.
 
-![](/arsipin/assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575707.webp)
-![](/arsipin/assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575704.webp)
-![](/arsipin/assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575702.webp)
-![](/arsipin/assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575699.webp)
-![](/arsipin/assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575668.webp)
+{%include gallery%}
 
 [\[1\]](#_ftnref1) Jika ingin membaca laporan forum diskusinya, silahkan mengikuti tautan berikut: [5W+1H Situasi Politik Rakyat Indonesia: Upaya Menumbuhkan Kesadaran Politik Rakyat di Kalangan Masisir - Bedug](https://bedug.net/2025/04/10/5w1h-situasi-politik-rakyat-indonesia-upaya-menumbuhkan-kesadaran-politik-rakyat-di-kalangan-masisir/)
