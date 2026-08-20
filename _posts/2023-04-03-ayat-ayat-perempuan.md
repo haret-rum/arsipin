@@ -1,6 +1,6 @@
 ---
 title: "Ayat-Ayat Perempuan"
-Author: M. Kafabih
+author: M. Kafabih
 layout: single
 classes: wide
 date: 2023-04-03
