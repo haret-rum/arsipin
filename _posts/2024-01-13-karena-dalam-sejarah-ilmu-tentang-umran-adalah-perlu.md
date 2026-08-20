@@ -12,8 +12,7 @@ tags:
   - sejarah
   - sosiologi
   - umran
-author:
-  - Segara Alam
+author: Segara Alam
 header:
   image: assets/images/posts/2024-01-13-karena-dalam-sejarah-ilmu-tentang-umran-adalah-perlu-1787214082642.jpg
   teaser: assets/images/posts/2024-01-13-karena-dalam-sejarah-ilmu-tentang-umran-adalah-perlu-1787214082642.jpg
