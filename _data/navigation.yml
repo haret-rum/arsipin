@@ -6,6 +6,8 @@ main:
     url: /categories/ulasan/
   - title: "Redaksi"
     url: /categories/redaksi/
+  - title: "Kirim Tulisan"
+    url: mailto:arsipinsite@gmail.com?subject=Kirim%20Tulisan
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
