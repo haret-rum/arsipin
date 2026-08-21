@@ -6,6 +6,7 @@ toc: true
 toc_label: "Daftar Isi"
 layout: single
 classes: wide
+description: "Istilah gagasan impor, al-fikr al-mustawrad atau semacamnya seperti al-fikr al-wāfid, al-dakhīl, dan lain-lain menjadi populer digunakan oleh para sarjana Arab pada paruh terakhir abad ke-20. Perihal ini pernah didokumentasikan oleh Mahdi Amil dalam Naqd al-Fikr al-Yawmī (1989) dan Salamah Kaylah dalam al-Nahdhah al-Mujahhadhah (Salamah Kaylah, 2011)."
 categories:
   - esai
 tags:
@@ -23,7 +24,7 @@ header:
 
 ## Marxisme sebagai Gagasan Impor
 
-Istilah gagasan impor, _al-fikr al-mustawrad_ atau semacamnya seperti _al-fikr al-wāfid_, _al-dakhīl_, dan lain-lain menjadi populer digunakan oleh para sarjana Arab pada paruh terakhir abad ke-20. Perihal ini pernah didokumentasikan oleh Mahdi Amil dalam _Naqd al-Fikr al-Yawmī_ (1989) dan Salamah Kaylah dalam _al-Nahdhah al-Mujahhadhah_ (Salamah Kaylah, 2011) . Istilah gagasan impor dalam arti populernya ini biasanya digunakan dengan konotasi yang negatif, yang kerap dipertentangkan dengan _turāts_ atau _al-fikr al-maurūts_ dan dikembalikan pada setiap gagasan yang berasal dari luar tubuh peradaban Arab-Islam, khususnya Barat.
+Istilah gagasan impor, _al-fikr al-mustawrad_ atau semacamnya seperti _al-fikr al-wāfid_, _al-dakhīl_, dan lain-lain menjadi populer digunakan oleh para sarjana Arab pada paruh terakhir abad ke-20. Perihal ini pernah didokumentasikan oleh Mahdi Amil dalam _Naqd al-Fikr al-Yawmī_ (1989) dan Salamah Kaylah dalam _al-Nahdhah al-Mujahhadhah_ (Salamah Kaylah, 2011). Istilah gagasan impor dalam arti populernya ini biasanya digunakan dengan konotasi yang negatif, yang kerap dipertentangkan dengan _turāts_ atau _al-fikr al-maurūts_ dan dikembalikan pada setiap gagasan yang berasal dari luar tubuh peradaban Arab-Islam, khususnya Barat.
 
 Konotasi negatif istilah gagasan impor merujuk pada realitas historis di mana istilah itu dipopulerkan. Pada paruh terakhir abad ke-20, Arab mengalami modernisasi yang gagal, Nahdhah yang gugur dan pesimisme beruntun terhadap proyek-proyek nasional rezim baru.
 
