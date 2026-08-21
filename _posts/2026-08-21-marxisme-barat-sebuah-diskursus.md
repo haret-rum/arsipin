@@ -42,7 +42,7 @@ Bifurkasi Marxisme dengan demikian tidak lagi hanya diidentifikasi lewat geograf
 
 Dalam dunia Marxis, bukan ide yang menggerakan sejarah—dan orientasi politik hidup dalam dunia ide, melainkan kekuatan material. Menurut Rockhill, Anderson tak pernah sampai pada inti masalah dengan menempatkan Marxisme Barat, sebagaimana yang ia pahami, dalam hubungan sosial produksi global (termasuk produksi teoretis) dan perjuangan kelas internasional. Penjelasan Anderson dengan begitu tidak sepenuhnya materialistis karena tidak secara serius terlibat dalam ekonomi politik produksi, sirkulasi, dan konsumsi pengetahuan, dan juga tidak menempatkan imperialisme sebagai pusat analisisnya.
 
-Marxisme Barat, menurut Rockhill, adalah produk ideologis imperial. Pengetahuan tak pernah bisa dipisahkan dari realita. Ia berkembang dalam situasi yang partikular dan konkret, dihasilkan melalui praktek teori spesifik yang tumbuh dalam organisasi intelektual masyarakat secara keseluruhan. Rockhill menolak asumsi humaniora borjuis, melalui perkataan Heidegger dan dekonstruksi Derrida[^3], yang mengisolasi teks dari konteks materialnya dan mengklaim bahwa biografi atau keadaan sosial-politik seorang filsuf tidaklah penting. Menyatakan bahwa Marxisme Barat adalah produk ideologis imperialisme[^4][4](#sdfootnote4sym), adalah menyatakan versi spesifik Marxisme yang muncul dalam suprastruktur—dan lebih khusus lagi, aparatus budaya—dari negara-negara imperialis terkemuka. Kemudian Marxisme menjadi kehilangan kontak dengan ambisi universalnya untuk secara ilmiah menjelaskan dan secara praktis mengubah tatanan dunia kapitalis.
+Marxisme Barat, menurut Rockhill, adalah produk ideologis imperial. Pengetahuan tak pernah bisa dipisahkan dari realita. Ia berkembang dalam situasi yang partikular dan konkret, dihasilkan melalui praktek teori spesifik yang tumbuh dalam organisasi intelektual masyarakat secara keseluruhan. Rockhill menolak asumsi humaniora borjuis, melalui perkataan Heidegger dan dekonstruksi Derrida[^3], yang mengisolasi teks dari konteks materialnya dan mengklaim bahwa biografi atau keadaan sosial-politik seorang filsuf tidaklah penting. Menyatakan bahwa Marxisme Barat adalah produk ideologis imperialisme[^4], adalah menyatakan versi spesifik Marxisme yang muncul dalam suprastruktur—dan lebih khusus lagi, aparatus budaya—dari negara-negara imperialis terkemuka. Kemudian Marxisme menjadi kehilangan kontak dengan ambisi universalnya untuk secara ilmiah menjelaskan dan secara praktis mengubah tatanan dunia kapitalis.
 
 Dalam masyarakat kelas, pengetahuan selalu terlibat dalam perjuangan kelas dan menentukan posisinya. Di bawah kapitalisme global, rezim penguasa (kelas borjuasi) tidak hanya menguasai alat produksi material, tetapi juga alat produksi intelektual. Perang Imperial bergandengan tangan dengan perang ideologi. Lalu pengetahuan imperial, dengan atau tanpa suatu embel-embel ideologi tertentu, disebar dan diproduksi jaringan institusi yang sangat massif dan saling terhubung; universitas elit, lembaga pemikir, industri penerbitan, media massa, serta yayasan filantropi.
 
@@ -62,37 +62,25 @@ Penggunaan istilah Marxisme (Eurosentris) Barat, kendati demikian, bagi Foster p
 
 Teori Rockhill mengenai pengetahuan (Marxisme Barat) sebagai produk ideologi imperial harus diletakkan secara hati-hati dalam kerangka yang ia gunakan, yaitu MDH (Materialis Dialektis Historis). Dalam kerangka MDH, titik tolak analisis adalah realita objektif. Dengan begitu, tidak semua Marxis (Barat), perlu ditekankan, jatuh ke dalam perangkap yang sama. Baran, misalnya, yang merupakan teman seumur hidup Marcuse, sejak mereka berdua berada di Institut Penelitian Sosial di Frankfurt, memiliki corak pemikiran yang sangat berbeda dengan watak pemikiran utama dari apa yang telah diidentifikasi sebagai tradisi Marxis Barat. Ia menulis Ekonomi Politik Pertumbuhan pada tahun 1957, karya Marxis terbesar tentang imperialisme pada masanya, dan menulis _Kapital Monopoli_ bersama Sweezy.
 
-Dalam kritik terhadap ‘Marxisme Barat’, pada dua Marxis Arab terkemuka kita bisa mengambil pelajaran; Sadik Jalal al-Azm dan Mahmud Amin al-Alim. Tanpa memberikan label geografis dan diskusi ekstra diskursif, kritikannya diletakan dalam kotak-kotak yang konkrit tanpa harus mengkotak-kotakan Marxisme dan memaksakan penggunaan istilah ‘Marxisme Arab’.[^6] [6](#sdfootnote6sym)
+Dalam kritik terhadap ‘Marxisme Barat’, pada dua Marxis Arab terkemuka kita bisa mengambil pelajaran; Sadik Jalal al-Azm dan Mahmud Amin al-Alim. Tanpa memberikan label geografis dan diskusi ekstra diskursif, kritikannya diletakan dalam kotak-kotak yang konkrit tanpa harus mengkotak-kotakan Marxisme dan memaksakan penggunaan istilah ‘Marxisme Arab’.[^6]
 
 Yang tersisa di hari ini, apabila kita tak ingin mengambil pelajaran yang Losurdo tawarkan tentang melahirkan kembali Marxisme Barat, adalah selalu memberikan ruang, di antara teori-teori (berbasis praktik) yang tak pernah berhenti diproduksi, pada pertanyaan besar yang dahulu Lenin kemukakan: Apa yang harus dilakukan?
 
 ## Daftar Pustaka
 
-Al-Azm, Sadik Jalal. (1990) Tsalat Muhawaraat Falsafiyyah; Difaan ‘an al-Maddiyah wa al-Tarikh. Dar al-Fikr al-Jadid.
-
-Al-Alim, Mahmud Amin (1972) Markyuz aw Falsafah at-Taariq al-Masdud. Mansyuraat al-Adab.
-
-Anderson, Perry. (1979) Consideration on Western Marxism. Verso.
-
-Losurdo, Dominico. (2024) Western Marxism: How it was Born, How it Died, How it Can be Reborn. Monthly Review Press. (Translated by Stevenn Colatrella with George De Stefano)
-
-Rockhill, Gabriel. (2025) Who Paid the Pipers of Western Marxism? Monthly Review Press.
-
-[https://jacobin.com/2024/11/western-marxism-philosophy-theory-review](https://jacobin.com/2024/11/western-marxism-philosophy-theory-review),
-
-[https://jacobin.com/2024/06/frankfurt-school-marcuse-adorno-theory](https://jacobin.com/2024/06/frankfurt-school-marcuse-adorno-theory),
-
-[https://jacobin.com/2026/04/review-rockhill-western-marxism-cold-war](https://jacobin.com/2026/04/review-rockhill-western-marxism-cold-war),
-
-[https://www.historicalmaterialism.org/article/theory-betrayed-an-essay-on-gabriel-rockhills-who-paid-the-pipers-of-western-marxism-part-one/](https://www.historicalmaterialism.org/article/theory-betrayed-an-essay-on-gabriel-rockhills-who-paid-the-pipers-of-western-marxism-part-one/).
-
-Monthly Review Vol. 77 (2025–2026), No. 09 (February 2026)[https://monthlyreview.org/articles/western-marxism-and-the-myth-of-capitalisms-adamantine-chains/#en14](https://monthlyreview.org/articles/western-marxism-and-the-myth-of-capitalisms-adamantine-chains/#en14)
-
-Monthly Review Vol. 76 (2024–2025), No. 06 (November 2024**)**[https://monthlyreview.org/articles/the-new-denial-of-imperialism-on-the-left/](https://monthlyreview.org/articles/the-new-denial-of-imperialism-on-the-left/)
-
-Monthly Review Vol. 77, No. 10 (March 2026)[https://monthlyreview.org/articles/french-theory-in-the-intellectual-cold-war/](https://monthlyreview.org/articles/french-theory-in-the-intellectual-cold-war/)
-
-Monthly Review March 2025 (Volume 76, Number 10)[https://monthlyreview.org/articles/western-marxism-and-imperialism-a-dialogue/](https://monthlyreview.org/articles/western-marxism-and-imperialism-a-dialogue/)
+Al-Azm, Sadik Jalal. (1990) Tsalat Muhawaraat Falsafiyyah; Difaan ‘an al-Maddiyah wa al-Tarikh. Dar al-Fikr al-Jadid.<br>
+Al-Alim, Mahmud Amin (1972) Markyuz aw Falsafah at-Taariq al-Masdud. Mansyuraat al-Adab.<br>
+Anderson, Perry. (1979) Consideration on Western Marxism. Verso.<br>
+Losurdo, Dominico. (2024) Western Marxism: How it was Born, How it Died, How it Can be Reborn. Monthly Review Press. (Translated by Stevenn Colatrella with George De Stefano)<br>
+Rockhill, Gabriel. (2025) Who Paid the Pipers of Western Marxism? Monthly Review Press.<br>
+[https://jacobin.com/2024/11/western-marxism-philosophy-theory-review](https://jacobin.com/2024/11/western-marxism-philosophy-theory-review),<br>
+[https://jacobin.com/2024/06/frankfurt-school-marcuse-adorno-theory](https://jacobin.com/2024/06/frankfurt-school-marcuse-adorno-theory),<br>
+[https://jacobin.com/2026/04/review-rockhill-western-marxism-cold-war](https://jacobin.com/2026/04/review-rockhill-western-marxism-cold-war),<br>
+[https://www.historicalmaterialism.org/article/theory-betrayed-an-essay-on-gabriel-rockhills-who-paid-the-pipers-of-western-marxism-part-one/](https://www.historicalmaterialism.org/article/theory-betrayed-an-essay-on-gabriel-rockhills-who-paid-the-pipers-of-western-marxism-part-one/).<br>
+Monthly Review Vol. 77 (2025–2026), No. 09 (February 2026)[https://monthlyreview.org/articles/western-marxism-and-the-myth-of-capitalisms-adamantine-chains/#en14](https://monthlyreview.org/articles/western-marxism-and-the-myth-of-capitalisms-adamantine-chains/#en14)<br>
+Monthly Review Vol. 76 (2024–2025), No. 06 (November 2024**)**[https://monthlyreview.org/articles/the-new-denial-of-imperialism-on-the-left/](https://monthlyreview.org/articles/the-new-denial-of-imperialism-on-the-left/)<br>
+Monthly Review Vol. 77, No. 10 (March 2026)[https://monthlyreview.org/articles/french-theory-in-the-intellectual-cold-war/](https://monthlyreview.org/articles/french-theory-in-the-intellectual-cold-war/)<br>
+Monthly Review March 2025 (Volume 76, Number 10)[https://monthlyreview.org/articles/western-marxism-and-imperialism-a-dialogue/](https://monthlyreview.org/articles/western-marxism-and-imperialism-a-dialogue/)<br>
 
 [^1]: Lihat misalnya, [https://jacobin.com/2024/11/western-marxism-philosophy-theory-review](https://jacobin.com/2024/11/western-marxism-philosophy-theory-review), [https://jacobin.com/2024/06/frankfurt-school-marcuse-adorno-theory](https://jacobin.com/2024/06/frankfurt-school-marcuse-adorno-theory), [https://jacobin.com/2026/04/review-rockhill-western-marxism-cold-war](https://jacobin.com/2026/04/review-rockhill-western-marxism-cold-war), dan [https://www.historicalmaterialism.org/article/theory-betrayed-an-essay-on-gabriel-rockhills-who-paid-the-pipers-of-western-marxism-part-one/](https://www.historicalmaterialism.org/article/theory-betrayed-an-essay-on-gabriel-rockhills-who-paid-the-pipers-of-western-marxism-part-one/).
 [^2]: Horkheimer mengecam pemerintah Soviet karena dinilai mengabaikan idealisme Marxis tentang penghapusan/pelenyapan negara. Horkheimer merasa kecewa karena para pemimpin Soviet malah berfokus pada pembangunan industri yang dipercepat di tanah air mereka yang terbelakang.
