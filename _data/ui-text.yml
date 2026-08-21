@@ -22,7 +22,7 @@ en: &DEFAULT_EN
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
-  date_label                 : "Updated:"
+  date_label                 : "Diterbitkan:"
   comments_label             : "Leave a comment"
   comments_title             : "Comments"
   more_label                 : "Learn more"
@@ -926,7 +926,7 @@ id: &DEFAULT_ID
   ext_link_label             : "Link langsung"
   less_than                  : "Kurang dari"
   minute_read                : "menit baca"
-  share_on_label             : "Bagikan di"
+  share_on_label             : "Bagikan"
   meta_label                 :
   tags_label                 : "Label:"
   categories_label           : "Kategori:"
@@ -934,7 +934,7 @@ id: &DEFAULT_ID
   comments_label             : "Tinggalkan komentar"
   comments_title             : "Komentar"
   more_label                 : "Pelajari lagi"
-  related_label              : "Anda mungkin suka"
+  related_label              : "Tulisan lainnya"
   follow_label               : "Ikuti:"
   feed_label                 : "Feed"
   powered_by                 : "Didukung oleh"
