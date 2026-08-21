@@ -6,6 +6,7 @@ toc: true
 toc_label: "Daftar Isi"
 layout: single
 classes: wide
+excerpt: "Istilah gagasan impor, al-fikr al-mustawrad atau semacamnya seperti al-fikr al-wāfid, al-dakhīl, dan lain-lain menjadi populer digunakan oleh para sarjana Arab pada paruh terakhir abad ke-20. Perihal ini pernah didokumentasikan oleh Mahdi Amil dalam Naqd al-Fikr al-Yawmī (1989) dan Salamah Kaylah dalam al-Nahdhah al-Mujahhadhah (Salamah Kaylah, 2011)."
 description: "Istilah gagasan impor, al-fikr al-mustawrad atau semacamnya seperti al-fikr al-wāfid, al-dakhīl, dan lain-lain menjadi populer digunakan oleh para sarjana Arab pada paruh terakhir abad ke-20. Perihal ini pernah didokumentasikan oleh Mahdi Amil dalam Naqd al-Fikr al-Yawmī (1989) dan Salamah Kaylah dalam al-Nahdhah al-Mujahhadhah (Salamah Kaylah, 2011)."
 categories:
   - esai
