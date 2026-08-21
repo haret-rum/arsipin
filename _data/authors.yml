@@ -12,11 +12,11 @@ Afi Hidayatun Nafiqoh:
 I. S. Savirta:
   name        : "I. S. Savirta"
   bio         : 
-  avatar      : 
+  avatar      : "assets/images/authors/is-savirta.png"
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-square-instagram"
-      url: "https://www.instagram.com/isyssavirta"
+    - label: "email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:intihobss@gmail.com"
 
 Adyatma Zaki Rabbani:
   name        : "Adyatma Zaki Rabbani"
