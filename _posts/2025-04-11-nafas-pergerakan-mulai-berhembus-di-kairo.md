@@ -16,10 +16,15 @@ header:
   teaser: assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211507177.webp
 gallery:
 - url: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575707.webp
+  image_path: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575707.webp
 - url: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575704.webp
+  image_path: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575704.webp
 - url: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575702.webp
+  image_path: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575702.webp
 - url: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575699.webp
+  image_path: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575699.webp
 - url: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575668.webp
+  image_path: /assets/images/posts/2025-04-11-nafas-pergerakan-mulai-berhembus-di-kairo-1787211575668.webp
 ---
 
 Bagai upacara bendera di tengah padang pasir, kunjungan Presiden Prabowo bertanggal 17 Desember 2024 di Mesir menjadi tontonan ganjil yang mengundang tepuk tangan sekaligus geleng kepala. Di satu sisi, ia adalah simbol tertinggi negara; di sisi lain, terlihat absurditas relasi antara kekuasaan dan elemen diaspora mahasiswa yang kehilangan arah. Sebagian besar mahasiswa berkerumun mengelu-elukan rombongan istana dengan senyum mengembang, bahkan berebut berjabat tangan hingga membuat salah satu _masyayikh_ Al-Azhar hampir terjatuh, sementara sebagian yang lain berbisik lirih di obrolan WhatsApp: _“sangat memalukan, berebut tangan ber__lumuran_ _darah.”_
