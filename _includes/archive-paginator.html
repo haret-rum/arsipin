@@ -1,11 +1,38 @@
-{% if page.pagination.total_pages > 1 %}
+{% assign archive_per_page = site.paginate | default: 7 %}
+{% assign archive_total_posts = page.pagination.total_posts %}
+{% if archive_total_posts == nil %}{% assign archive_total_posts = site.categories[page.title].size %}{% endif %}
+{% if archive_total_posts == 0 %}{% assign archive_total_posts = site.tags[page.title].size %}{% endif %}
+{% assign archive_total_pages = archive_total_posts | plus: archive_per_page | minus: 1 | divided_by: archive_per_page %}
+{% assign archive_page = page.pagination.page | default: 1 %}
+{% assign archive_base_path = page.url %}
+{% if page.url contains '/page/' %}
+  {% assign archive_base_path = page.url | split: '/page/' | first | append: '/' %}
+  {% assign archive_page = page.url | split: '/page/' | last | split: '/' | first | plus: 0 %}
+{% endif %}
+{% assign archive_previous = page.pagination.previous_page_path %}
+{% assign archive_next = page.pagination.next_page_path %}
+{% if archive_page > 1 %}
+  {% if archive_previous == nil and archive_page == 2 %}
+    {% assign archive_previous = archive_base_path %}
+  {% elsif archive_previous == nil %}
+    {% assign archive_previous_page = archive_page | minus: 1 %}
+    {% assign archive_previous = archive_base_path | append: 'page/' | append: archive_previous_page | append: '/' %}
+  {% endif %}
+{% endif %}
+{% if archive_next == nil and archive_page == 1 and archive_total_pages > 1 %}
+  {% assign archive_next = archive_base_path | append: 'page/2/' %}
+{% elsif archive_next == nil and archive_page > 1 and archive_page < archive_total_pages %}
+  {% assign archive_next_page = archive_page | plus: 1 %}
+  {% assign archive_next = archive_base_path | append: 'page/' | append: archive_next_page | append: '/' %}
+{% endif %}
+{% if archive_total_pages > 1 %}
   <nav class="pagination" aria-label="Navigasi halaman arsip">
-    {% if page.pagination.previous_page_path %}
-      <a href="{{ page.pagination.previous_page_path | relative_url }}" rel="prev">Tulisan sebelumnya</a>
+    {% if archive_previous %}
+      <a href="{{ archive_previous | relative_url }}" rel="prev">Tulisan sebelumnya</a>
     {% endif %}
-    <span>Halaman {{ page.pagination.page }} dari {{ page.pagination.total_pages }}</span>
-    {% if page.pagination.next_page_path %}
-      <a href="{{ page.pagination.next_page_path | relative_url }}" rel="next">Tulisan berikutnya</a>
+    <span>Halaman {{ archive_page }} dari {{ archive_total_pages }}</span>
+    {% if archive_next %}
+      <a href="{{ archive_next | relative_url }}" rel="next">Tulisan berikutnya</a>
     {% endif %}
   </nav>
 {% endif %}
