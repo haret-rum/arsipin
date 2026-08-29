@@ -1,21 +1,22 @@
 ---
-title: "Memulihkan Feminisme dengan Interseksionalitas"
-author: Afi Hidayatun Nafiqoh
+title: Memulihkan Feminisme dengan Interseksionalitas
+author:
+  - Afi H. Nafiqoh
 layout: single
 classes: wide
 date: 2025-03-13
-categories: 
-  - "esai"
-tags: 
-  - "agama"
-  - "feminisme"
-  - "gender"
-  - "imperialisme"
-  - "interseksional"
-  - "kapitalisme"
-  - "kelas"
-  - "ras"
-  - "seksualitas"
+categories:
+  - esai
+tags:
+  - agama
+  - feminisme
+  - gender
+  - imperialisme
+  - interseksional
+  - kapitalisme
+  - kelas
+  - ras
+  - seksualitas
 header:
   image: assets/images/posts/2025-03-13-memulihkan-feminisme-dengan-interseksionalitas-1787049739147.jpg
   teaser: assets/images/posts/2025-03-13-memulihkan-feminisme-dengan-interseksionalitas-1787049739147.jpg

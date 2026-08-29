@@ -1,20 +1,21 @@
 ---
-title: "Ketimpangan adalah Konkret, Keterbukaan Akses Nyatanya Tidaklah Cukup"
-author: Afi Hidayatun Nafiqoh
+title: Ketimpangan adalah Konkret, Keterbukaan Akses Nyatanya Tidaklah Cukup
+author:
+  - Afi H. Nafiqoh
 layout: single
 classes: wide
 date: 2024-03-08
-categories: 
-  - "esai"
-tags: 
-  - "akses"
-  - "feminisme"
-  - "kapitalisme"
-  - "kerja"
-  - "ketimpangan"
-  - "perempuan"
-  - "reproduksi"
-  - "sosial"
+categories:
+  - esai
+tags:
+  - akses
+  - feminisme
+  - kapitalisme
+  - kerja
+  - ketimpangan
+  - perempuan
+  - reproduksi
+  - sosial
 header:
   image: assets/images/posts/2024-03-08-ketimpangan-adalah-konkret-keterbukaan-akses-nyatanya-tidaklah-cukup-1787049488156.jpg
   teaser: assets/images/posts/2024-03-08-ketimpangan-adalah-konkret-keterbukaan-akses-nyatanya-tidaklah-cukup-1787049488156.jpg
