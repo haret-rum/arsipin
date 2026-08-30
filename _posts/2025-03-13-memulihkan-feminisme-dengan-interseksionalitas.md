@@ -1,7 +1,6 @@
 ---
 title: Memulihkan Feminisme dengan Interseksionalitas
-author:
-  - Afi H. Nafiqoh
+author: Afi H. Nafiqoh
 layout: single
 classes: wide
 date: 2025-03-13

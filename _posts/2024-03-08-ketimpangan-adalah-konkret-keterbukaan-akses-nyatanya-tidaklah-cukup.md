@@ -1,7 +1,6 @@
 ---
 title: Ketimpangan adalah Konkret, Keterbukaan Akses Nyatanya Tidaklah Cukup
-author:
-  - Afi H. Nafiqoh
+author: Afi H. Nafiqoh
 layout: single
 classes: wide
 date: 2024-03-08
