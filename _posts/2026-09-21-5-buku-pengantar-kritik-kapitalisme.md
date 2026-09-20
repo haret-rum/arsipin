@@ -1,8 +1,8 @@
 ---
 title: 5 Buku Pengantar Kritik Kapitalisme
-date: 2026-09-20 16:20:32 +03:00
-description: ""
-excerpt: ""
+date: 2026-09-21 01:00:00 +03:00
+description: "Pada kesempatan kali ini, saya akan merekomendasikan 5 buku—berdasarkan yang pernah saya baca—sebagai pintu pertama untuk memahami Das Kapital, sehingga memudahkan kita untuk memahami konsep-konsep tersebut."
+excerpt: "Pada kesempatan kali ini, saya akan merekomendasikan 5 buku—berdasarkan yang pernah saya baca—sebagai pintu pertama untuk memahami Das Kapital, sehingga memudahkan kita untuk memahami konsep-konsep tersebut."
 author: Segara Alam
 toc: false
 layout: single
@@ -18,7 +18,7 @@ tags:
   - pengantar
 header:
   image: "/assets/images/posts/5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910843322.jpg"
-  teaser: ""
+  teaser: "/assets/images/posts/5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910843322.jpg"
   caption: ""
   og_image: "/assets/images/posts/5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910843322.jpg"
 ---
@@ -57,7 +57,7 @@ Hal ini lantaran kekuatan abstraksi yang melekat pada metode dialektika yang Mar
 
 Pada kesempatan kali ini, saya akan merekomendasikan 5 buku—berdasarkan yang pernah saya baca—sebagai pintu pertama untuk memahami Das Kapital, sehingga memudahkan kita untuk memahami konsep-konsep tersebut.
 
-#### Pengantar Ekonomi Politik (Swanvri dkk)
+#### 1. Pengantar Ekonomi Politik (Swanvri dkk)
 
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910964491.png){: .align-left .img-small}
 
@@ -67,7 +67,7 @@ Selain memperkenalkan ke pembaca tentang teori-teori dasar Marxisme, seperti apa
 
 Jika anda mengenal Marx mula-mula sebagai sosiolog atau ekonom, membaca buku ini akan mengantarkan Anda untuk mengenal Marx dari sudut pandang ekonomi-politik. Dan jika Anda mengenal Marxisme sebagai bidang ilmu yang muncul dari ruang kosong, buku ini akan memahamkan Anda betapapun Marxisme sebagai ilmu ekonomi-politik itu berpijak pada tradisi ekonomi-politik Inggris, seperti Adam Smith, David Ricardo, Thomas Malthus dan lain sebagainya. Bukan melanjutkan tradisi itu dengan serta merta, melainkan melihatnya secara kritis dan membangun teori baru di atas reruntuhan teori ekonomi-politik Inggris.
 
-#### Geneologi Kapitalisme (Dede Mulyanto)
+#### 2. Geneologi Kapitalisme (Dede Mulyanto)
 
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910985433.png){: .align-left .img-small}
 
@@ -79,7 +79,7 @@ Buku ini dilengkapi dengan glosarium, rujukan, dan kutipan, khususnya bagian-bag
 
 Jika Anda pertama kali kenal pemikiran Marx dari Romo Magnis, saya jamin Anda akan mendapatkan ide-ide baru dari buku Kang Dede ini. Bahkan, Anda barang tentu menjadi yakin bahwa Romo Magnis sebenarnya tidak benar-benar membaca Das Kapital-nya Marx.
 
-#### Analisa Marx atas Produksi Kapitalis (Gerard Dumenil dan Duncan Foley)
+#### 3. Analisa Marx atas Produksi Kapitalis (Gerard Dumenil dan Duncan Foley)
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911006273.png){: .align-left .img-small}
 
 Buku ini adalah artikel Gerard Dumenil bersama Duncan Foley yang diterjemahkan Indoprogress. Buku ini relatif tidak ramah untuk pembaca yang mencari sensasi estetik tulisan.
@@ -88,7 +88,7 @@ Lantaran, seperti buku ‘jitu’ dan buku ‘jagoan’, buku ini langsung menem
 
 Buku ini tidak cocok sebagai pengantar jika Anda mencari kenikmatan membaca. Tapi jika Anda berniat mencari pegangan yang ringkas selama Anda membaca Das Kapital, dari bab awal sampai akhir, buku ini sangatlah cocok Anda anggap sebagai *talkhisan* dari *talkhisan* Das Kapital.
 
-#### Understanding Marx’s Capital (Rob Sewell & Adam Booth)
+#### 4. Understanding Marx’s Capital (Rob Sewell & Adam Booth)
 
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911024119.png){: .align-left .img-small}
 
@@ -102,7 +102,7 @@ Selain itu, buku ini juga memuat pengantar Trotsky untuk Das Kapital jilid perta
 
 Di bagian akhir, terdapat tiga esai tambahan dari Rob Sewell menyoal tentang krisis kapitalisme. tiga esai ini penting jika Anda tertarik dengan bagaimana kontradiksi dalam kapitalisme sebagai cara produksi itu muncul.
 
-#### Al-Iqtishād al-Siyāsī li al-Ra’smāliyyah
+#### 5. Al-Iqtishād al-Siyāsī li al-Ra’smāliyyah
 
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911033504.png){: .align-left .img-small}
 
