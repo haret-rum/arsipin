@@ -19,3 +19,9 @@ $header-font-family: $sans-serif;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Custom CSS */
+.align-left.img-small {
+  width: 300px; /* Atur ukuran sesuai kebutuhan */
+  height: auto; /* Menjaga aspek rasio */
+}
