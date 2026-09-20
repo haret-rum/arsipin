@@ -8,7 +8,7 @@ toc: false
 layout: single
 classes: wide
 categories:
-  - esai
+  - ulasan
 tags:
   - marx
   - marxisme
