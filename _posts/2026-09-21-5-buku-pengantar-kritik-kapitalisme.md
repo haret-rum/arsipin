@@ -61,7 +61,7 @@ Pada kesempatan kali ini, saya akan merekomendasikan 5 buku—berdasarkan yang p
 
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910964491.png){: .align-left .img-small}
 
-Buku yang relatif tipis ini adalah modul kuliah dalam Short Course Pengantar Ekonomi Politik yang diadakan oleh Resist Institute.
+[Buku yang relatif tipis ini] (https://online.fliphtml5.com/aludp/jcbl/) adalah modul kuliah dalam Short Course Pengantar Ekonomi Politik yang diadakan oleh Resist Institute.
 
 Selain memperkenalkan ke pembaca tentang teori-teori dasar Marxisme, seperti apa itu kapitalisme sebagai cara produksi, akumulasi primitif, teori nilai dan eksploitasi, buku ini juga memperkenalkan ekonomi-politik sebagai disiplin ilmu. 
 
@@ -71,7 +71,7 @@ Jika anda mengenal Marx mula-mula sebagai sosiolog atau ekonom, membaca buku ini
 
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910985433.png){: .align-left .img-small}
 
-Buku ini ditulis oleh  KDM tapi bukan KDM yang caper itu. Tapi KDM yang kepanjangannya adalah Kang Dede Mulyanto, seorang antropolog Marxis. Menurut pengakuannya, argumen-arguen dalam buku ini didasarkan pada perkembangan diskusi Das Kapital di Perhimpuan Muda. 
+[Buku ini ditulis oleh  KDM] (https://www.berdikaribook.red/products/386583/genealogi-kapitalisme-cet.-2-__-resist) tapi bukan KDM yang caper itu. Tapi KDM yang kepanjangannya adalah Kang Dede Mulyanto, seorang antropolog Marxis. Menurut pengakuannya, argumen-arguen dalam buku ini didasarkan pada perkembangan diskusi Das Kapital di Perhimpuan Muda. 
 
 Kang Dede tidak hanya bertujuan mengantar pembaca kepada soal bagaimana analisa Marx tentang kapital, tapi juga dengan elaboratif menjelaskannya dari sudut pandang antropologi. Dengan antropologi, Kang Dede membuktikan bahwa kapitalisme sebagai sistem ekonomi memiliki asal-usul historis. Ini merupakan gugatan atas klaim para intelektual borjuis yang menganggap kapitalisme bersifat transhistoris dan azali. Dengan antropologi pula, Kang Dede dengan lincah dapat mencontohkan bagaimana Kapitalisme muncul dan berkembang di berbagai wilayah Nusantara, dengan kespesifikan kehidupan pra-kapitalis yang beragam.
 
@@ -82,7 +82,7 @@ Jika Anda pertama kali kenal pemikiran Marx dari Romo Magnis, saya jamin Anda ak
 #### 3. Analisa Marx atas Produksi Kapitalis (Gerard Dumenil dan Duncan Foley)
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911006273.png){: .align-left .img-small}
 
-Buku ini adalah artikel Gerard Dumenil bersama Duncan Foley yang diterjemahkan Indoprogress. Buku ini relatif tidak ramah untuk pembaca yang mencari sensasi estetik tulisan.
+[Buku ini](https://indoprogress.com/download/analisa-marx-atas-produksi-kapitalis/) adalah artikel Gerard Dumenil bersama Duncan Foley yang diterjemahkan Indoprogress. Buku ini relatif tidak ramah untuk pembaca yang mencari sensasi estetik tulisan.
 
 Lantaran, seperti buku ‘jitu’ dan buku ‘jagoan’, buku ini langsung menembak ke setiap inti persoalan dangan singkat dan padat setebal 66 halaman. Terjemahan buku ini juga tidak dengan bahasa populer yang bisa dinikmati pembaca pemula ekonomi-politik. 
 
@@ -92,7 +92,7 @@ Buku ini tidak cocok sebagai pengantar jika Anda mencari kenikmatan membaca. Tap
 
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911024119.png){: .align-left .img-small}
 
-Buku ini ditulis oleh Rob Sewell dan Adam Booth, dua tokoh terkemuka *International Marxist Tendency*, sebuah organisasi yang menganut paham Marxis secara *kāffah*. 
+[Buku ini](https://marxist.com/marx-capital-guide.htm) ditulis oleh Rob Sewell dan Adam Booth, dua tokoh terkemuka *International Marxist Tendency*, sebuah organisasi yang menganut paham Marxis secara *kāffah*. 
 
 Buku ini cocok sebagai pengantar untuk memahami teori-teori pokok dari Das Kapital-nya Marx. Buku ini hanya mencakup jilid pertama dari Das Kapital. Ia ditulis dengan pelan-pelan agar pembaca benar-benar memahami apa yang penting dari Das Kapital Marx, disertai dengan kutipan-kutipan penting dari teks-teks babon pemikir Marxisme. 
 
@@ -106,7 +106,7 @@ Di bagian akhir, terdapat tiga esai tambahan dari Rob Sewell menyoal tentang kri
 
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911033504.png){: .align-left .img-small}
 
-Buku ini ditulis oleh para sarjana Soviet dan diterjemahkan oleh Maher Asal. Saya merekomendasikan buku ini kepada Anda yang tertarik memahami kosakata Das Kapital dalam bahasa Arab. Utamanya, jika Anda ingin memahami teks para pemikir Arab Marxis seperti Mahdi Amil, Kamerad Fahd, atau Samir Amin, yang memiliki *concern* dalam pengembangan teori kritik Kapitalisme abad ke-20.
+[Buku yang kelima ini](https://limewire.com/d/5Q18x#DHjM6ANCRm) ditulis oleh para sarjana Soviet dan diterjemahkan oleh Maher Asal. Saya merekomendasikan buku ini kepada Anda yang tertarik memahami kosakata Das Kapital dalam bahasa Arab. Utamanya, jika Anda ingin memahami teks para pemikir Arab Marxis seperti Mahdi Amil, Kamerad Fahd, atau Samir Amin, yang memiliki *concern* dalam pengembangan teori kritik Kapitalisme abad ke-20.
 
 Buku ini, meski dalam bahasa Arab, tetap relatif mudah dipahami, lantaran buku ini seperti buku “sekolahan”. Setiap kata kunci secara harfiah digarisbawahi demi kemudahan pembaca. Meskipun mencapai 686 halaman, tapi ia di-*lay-out* dalam format buku saku. Jadi Anda tidak perlu gemetar dulu.
 
