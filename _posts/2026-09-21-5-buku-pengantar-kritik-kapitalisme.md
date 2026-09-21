@@ -43,7 +43,7 @@ Diskusi tentang kritik atas kapitalisme telah bergulir dengan banyak perkembanga
 
 ### III
 
-Kita hidup dalam dunia kapitalisme di mana semua relasi sosial dikonversi menjadi relasi antar komoditas. Nyaris tidak ada benda-benda yang bukan lagi komoditas di jaman ini. Hadits Nabi, “Kaum Muslimin berserikat dalam tiga hal: air, rumput, dan api” sudah tidak berlaku di dunia di mana kita hidup sekarang. Air telah dimonopoli oleh perusahaan-perusahaan. Bahkan untuk mendapatkan sepotong baju, Anda perlu menjual tenaga kerja Anda ke kaum pemilik modal. Relasi komoditas ini mempertajam kontradiksi antara nilai guna dan nilai tukar, dan mendikte bagaimana dunia bekerja hari ini, bahkan dalam skala global.
+Kita hidup dalam dunia kapitalisme, di mana semua relasi sosial dikonversi menjadi relasi antar komoditas. Nyaris tidak ada benda-benda yang bukan lagi komoditas di jaman ini. Hadits Nabi, “Kaum Muslimin berserikat dalam tiga hal: air, rumput, dan api” sudah tidak berlaku di dunia di mana kita hidup sekarang. Air telah dimonopoli oleh perusahaan-perusahaan. Bahkan untuk mendapatkannya, Anda perlu menjual tenaga kerja Anda ke kaum pemilik modal. Relasi komoditas ini mempertajam kontradiksi antara nilai guna dan nilai tukar, dan mendikte bagaimana dunia bekerja hari ini, bahkan dalam skala global.
 
 Tapi apakah itu komoditas sebagai relasi? bagaimana kesetaraan formal di ranah pertukaran benda-benda komoditas ini berubah menjadi relasi eksploitasi begitu masuk ke ranah produksi di antara kelas kapitalis dan kelas pekerja? apakah yang dimaksud dengan kelas sebagai kategori sosial, ditentukan oleh apa? apakah dan bagaimana sejatinya eksploitasi itu berlangsung padahal kontrak jual-beli tenaga kerja secara kasat mata tampak adil dan sah-sah saja? apakah yang dimaksud dengan nilai? bagaimana kapitalis lewat kompetisi, entah disadari atau tidak, justru saling bekerja sama dan meratakan tingkat laba dalam problem perubahan nilai ke harga produksi? apa saja syarat-syarat bagi runtuhnya kapitalisme baik dari kondisi objektif maupun kondisi subjektif?
 
@@ -114,7 +114,7 @@ Buku ini, meski dalam bahasa Arab, tetap relatif mudah dipahami, lantaran buku i
 
 Sebagai pungkasan saya ingin mengutip Marx dalam pengantarnya:
 
-> “Di jalan ilmu, tidak ada jalan raya yang mulus, dan hanya mereka yang tidak takut lelah mendaki di jalan yang terjal, yang memiliki harapan untuk mencapai puncak yang bersinar” (Economic Manuscripts: Capital Vol. I - 1872 Preface, t.t.)
+> “Di jalan ilmu, tidak ada jalan raya yang mulus, dan hanya mereka yang tidak takut lelah mendaki di jalan yang terjal, yang memiliki harapan untuk mencapai puncak yang bersinar” (Economic Manuscripts: Capital Vol. I - 1872 Preface)
 
 ### Referensi
 
