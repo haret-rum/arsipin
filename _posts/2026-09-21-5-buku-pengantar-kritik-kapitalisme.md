@@ -61,7 +61,7 @@ Pada kesempatan kali ini, saya akan merekomendasikan 5 buku—berdasarkan yang p
 
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910964491.png){: .align-left .img-small}
 
-[Buku yang relatif tipis ini] (https://online.fliphtml5.com/aludp/jcbl/) adalah modul kuliah dalam Short Course Pengantar Ekonomi Politik yang diadakan oleh Resist Institute.
+[Buku yang relatif tipis ini](https://online.fliphtml5.com/aludp/jcbl/) adalah modul kuliah dalam Short Course Pengantar Ekonomi Politik yang diadakan oleh Resist Institute.
 
 Selain memperkenalkan ke pembaca tentang teori-teori dasar Marxisme, seperti apa itu kapitalisme sebagai cara produksi, akumulasi primitif, teori nilai dan eksploitasi, buku ini juga memperkenalkan ekonomi-politik sebagai disiplin ilmu. 
 
@@ -71,7 +71,7 @@ Jika anda mengenal Marx mula-mula sebagai sosiolog atau ekonom, membaca buku ini
 
 ![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910985433.png){: .align-left .img-small}
 
-[Buku ini ditulis oleh  KDM] (https://www.berdikaribook.red/products/386583/genealogi-kapitalisme-cet.-2-__-resist) tapi bukan KDM yang caper itu. Tapi KDM yang kepanjangannya adalah Kang Dede Mulyanto, seorang antropolog Marxis. Menurut pengakuannya, argumen-arguen dalam buku ini didasarkan pada perkembangan diskusi Das Kapital di Perhimpuan Muda. 
+[Buku ini ditulis oleh  KDM](https://www.berdikaribook.red/products/386583/genealogi-kapitalisme-cet.-2-__-resist) tapi bukan KDM yang caper itu. Tapi KDM yang kepanjangannya adalah Kang Dede Mulyanto, seorang antropolog Marxis. Menurut pengakuannya, argumen-arguen dalam buku ini didasarkan pada perkembangan diskusi Das Kapital di Perhimpuan Muda. 
 
 Kang Dede tidak hanya bertujuan mengantar pembaca kepada soal bagaimana analisa Marx tentang kapital, tapi juga dengan elaboratif menjelaskannya dari sudut pandang antropologi. Dengan antropologi, Kang Dede membuktikan bahwa kapitalisme sebagai sistem ekonomi memiliki asal-usul historis. Ini merupakan gugatan atas klaim para intelektual borjuis yang menganggap kapitalisme bersifat transhistoris dan azali. Dengan antropologi pula, Kang Dede dengan lincah dapat mencontohkan bagaimana Kapitalisme muncul dan berkembang di berbagai wilayah Nusantara, dengan kespesifikan kehidupan pra-kapitalis yang beragam.
 
