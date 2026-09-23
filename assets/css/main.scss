@@ -21,7 +21,10 @@ $header-font-family: $sans-serif;
 @import "minimal-mistakes"; // main partials
 
 /* Custom CSS */
-.align-left.img-small {
-  width: 300px; /* Atur ukuran sesuai kebutuhan */
-  height: auto; /* Menjaga aspek rasio */
+img.align-left {
+  display: block;
+  width: 300px;        /* atau 40%, 50%, sesuai selera */
+  height: auto;        /* jaga rasio aspek */
+  margin-left: 0;
+  margin-right: auto;
 }
