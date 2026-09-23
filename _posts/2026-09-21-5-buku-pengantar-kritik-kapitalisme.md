@@ -59,7 +59,7 @@ Pada kesempatan kali ini, saya akan merekomendasikan 5 buku—berdasarkan yang p
 
 #### 1. Pengantar Ekonomi Politik (Swanvri dkk)
 
-![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910964491.png){.align-left}
+![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910964491.png){.small}
 
 [Buku yang relatif tipis ini](https://online.fliphtml5.com/aludp/jcbl/) adalah modul kuliah dalam Short Course Pengantar Ekonomi Politik yang diadakan oleh Resist Institute.
 
@@ -69,7 +69,7 @@ Jika anda mengenal Marx mula-mula sebagai sosiolog atau ekonom, membaca buku ini
 
 #### 2. Geneologi Kapitalisme (Dede Mulyanto)
 
-![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910985433.png){.align-left}
+![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789910985433.png){.small}
 
 [Buku ini ditulis oleh  KDM](https://www.berdikaribook.red/products/386583/genealogi-kapitalisme-cet.-2-__-resist) tapi bukan KDM yang caper itu. Tapi KDM yang kepanjangannya adalah Kang Dede Mulyanto, seorang antropolog Marxis. Menurut pengakuannya, argumen-arguen dalam buku ini didasarkan pada perkembangan diskusi Das Kapital di Perhimpuan Muda. 
 
@@ -80,7 +80,7 @@ Buku ini dilengkapi dengan glosarium, rujukan, dan kutipan, khususnya bagian-bag
 Jika Anda pertama kali kenal pemikiran Marx dari Romo Magnis, saya jamin Anda akan mendapatkan ide-ide baru dari buku Kang Dede ini. Bahkan, Anda barang tentu menjadi yakin bahwa Romo Magnis sebenarnya tidak benar-benar membaca Das Kapital-nya Marx.
 
 #### 3. Analisa Marx atas Produksi Kapitalis (Gerard Dumenil dan Duncan Foley)
-![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911006273.png){.align-left}
+![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911006273.png){.small}
 
 [Buku ini](https://indoprogress.com/download/analisa-marx-atas-produksi-kapitalis/) adalah artikel Gerard Dumenil bersama Duncan Foley yang diterjemahkan Indoprogress. Buku ini relatif tidak ramah untuk pembaca yang mencari sensasi estetik tulisan.
 
@@ -90,7 +90,7 @@ Buku ini tidak cocok sebagai pengantar jika Anda mencari kenikmatan membaca. Tap
 
 #### 4. Understanding Marx’s Capital (Rob Sewell & Adam Booth)
 
-![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911024119.png){.align-left}
+![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911024119.png){.small}
 
 [Buku ini](https://marxist.com/marx-capital-guide.htm) ditulis oleh Rob Sewell dan Adam Booth, dua tokoh terkemuka *International Marxist Tendency*, sebuah organisasi yang menganut paham Marxis secara *kāffah*. 
 
@@ -104,7 +104,7 @@ Di bagian akhir, terdapat tiga esai tambahan dari Rob Sewell menyoal tentang kri
 
 #### 5. Al-Iqtishād al-Siyāsī li al-Ra’smāliyyah
 
-![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911033504.png){.align-left}
+![](/assets/images/posts/2026-09-20-5%20Buku%20Pengantar%20Kritik%20Kapitalisme-1789911033504.png){.small}
 
 [Buku yang kelima ini](https://limewire.com/d/5Q18x#DHjM6ANCRm) ditulis oleh para sarjana Soviet dan diterjemahkan oleh Maher Asal. Saya merekomendasikan buku ini kepada Anda yang tertarik memahami kosakata Das Kapital dalam bahasa Arab. Utamanya, jika Anda ingin memahami teks para pemikir Arab Marxis seperti Mahdi Amil, Kamerad Fahd, atau Samir Amin, yang memiliki *concern* dalam pengembangan teori kritik Kapitalisme abad ke-20.
 

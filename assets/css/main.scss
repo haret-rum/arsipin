@@ -21,10 +21,6 @@ $header-font-family: $sans-serif;
 @import "minimal-mistakes"; // main partials
 
 /* Custom CSS */
-img.align-left {
-  display: block;
-  width: 300px;        /* atau 40%, 50%, sesuai selera */
-  height: auto;        /* jaga rasio aspek */
-  margin-left: 0;
-  margin-right: auto;
-}
+img.small  { width: 200px; height: auto; }
+img.medium { width: 400px; height: auto; }
+img.large  { width: 600px; height: auto; }
