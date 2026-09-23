@@ -21,6 +21,12 @@ $header-font-family: $sans-serif;
 @import "minimal-mistakes"; // main partials
 
 /* Custom CSS */
-img.small  { width: 200px; height: auto; }
+img.small  { 
+  width: 300px; 
+  height: auto;
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+}
 img.medium { width: 400px; height: auto; }
 img.large  { width: 600px; height: auto; }
