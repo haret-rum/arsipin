@@ -30,12 +30,12 @@ enable_copy_code_button  : true # true, false (default)
 copyright                : "Arsipin" # "copyright" name, defaults to site.title
 copyright_url            : "https://arsipin.com" # "copyright" URL, defaults to site.url
 comments:
-  provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "echothread" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-    provider               : giscus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+    provider             : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : 5 # 5 (default)
@@ -177,7 +177,12 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+markdown: Pandoc
+pandoc:
+  extensions:
+    - --citeproc
+    - bibliography: _bibliography/bibliography.bib
+    - csl: _styles/apa.csl
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -221,6 +226,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-archives
+  - jekyll-pandoc
 
 # mimic GitHub Pages with --safe
 whitelist:

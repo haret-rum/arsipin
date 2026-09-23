@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem "faraday-retry"
   gem "wdm", platforms: [:mswin, :mingw, :x64_mingw]
   gem "fiddle"
+  gem "jekyll-pandoc"
 end
