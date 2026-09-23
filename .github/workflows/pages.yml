@@ -23,6 +23,12 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+          pandoc --version
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
