@@ -21,8 +21,8 @@ $header-font-family: $sans-serif;
 @import "minimal-mistakes"; // main partials
 
 /* Custom CSS */
-.site-logo img {
-  max-height: 1.75rem;
+.masthead__menu-item--lg img {
+  max-height: 70px;
   width: auto;
 }
 
