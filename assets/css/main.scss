@@ -21,6 +21,11 @@ $header-font-family: $sans-serif;
 @import "minimal-mistakes"; // main partials
 
 /* Custom CSS */
+.site-logo img {
+  max-height: 1.75rem;
+  width: auto;
+}
+
 img.small  { 
   float: left;
   width: 300px; 
