@@ -15,10 +15,10 @@ tags:
   - politik
   - kekuasaan
 header:
-  image: "/assets/images/posts/Hubungan%20Musykil%20antara%20Mutsaqqaf%20dan%20Kekuasaan%20Politik-1790764698894.jpg"
-  teaser: "/assets/images/posts/Hubungan%20Musykil%20antara%20Mutsaqqaf%20dan%20Kekuasaan%20Politik-1790764698894.jpg"
+  image: "assets/images/posts/1001114340.jpg"
+  teaser: "assets/images/posts/1001114340.jpg"
   caption: ""
-  og_image: "/assets/images/posts/Hubungan%20Musykil%20antara%20Mutsaqqaf%20dan%20Kekuasaan%20Politik-1790764698894.jpg"
+  og_image: "assets/images/posts/1001114340.jpg"
 ---
 
 > Diterjemahkan oleh Faishol Abimanyu, esai ini merupakan makalah yang disampaikan Mahmud Amin al-Alim dalam seminar yang bertajuk “Pengetahuan dan Kekuasaan dalam Masyarakat Arab” yang digelar pada 6-9 Juli 1987. Dengan keterbatasan yang ada dan atas nama efisiensi, ~~pemerintah dengan tololnya mempertahankan MBG~~ penerjemah hanya memilih dua seksi—yakni sub-bab pertama dan sub-bab kedua—dari esai untuk diterjemahkan. 
