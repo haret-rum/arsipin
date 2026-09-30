@@ -16,10 +16,10 @@ tags:
   - rezim
   - krisis
 header:
-  image: "/assets/images/posts/Hubungan%20Musykil%20antara%20Mutsaqqaf%20dan%20Kekuasaan%20Politik-1790764698894.jpg"
-  teaser: "/assets/images/posts/Hubungan%20Musykil%20antara%20Mutsaqqaf%20dan%20Kekuasaan%20Politik-1790764698894.jpg"
+  image: "assets/images/posts/1001114360.png"
+  teaser: "assets/images/posts/1001114360.png"
   caption: ""
-  og_image: "/assets/images/posts/Hubungan%20Musykil%20antara%20Mutsaqqaf%20dan%20Kekuasaan%20Politik-1790764698894.jpg"
+  og_image: "assets/images/posts/1001114360.png"
 ---
 
 *[Krisis Kebudayaan atau Krisis Rezim!](https://arsipin.com/esai/krisis-kebudayaan-atau-krisis-rezim/) adalah teks al-Alim yang diterbitkan pertama kali pada tahun ’85. Kemudian dibukukan bersama artikel lainnya di buku Mafāhim wa Qadhāyā Isykāliyyah.*
