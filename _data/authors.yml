@@ -89,3 +89,8 @@ Segara Alam:
     - label: "website"
       icon: "fas fa-fw fa-link"
       url: "https://segara-alam.my.id"
+
+Mahmud Amin al-'Alim:
+  name        : "Mahmud Amin al-'Alim"
+  bio         : "Marxis Mesir Almaghfurlah"
+  avatar      : "assets/images/authors/photo_2026-08-30_11-17-18.jpg"
