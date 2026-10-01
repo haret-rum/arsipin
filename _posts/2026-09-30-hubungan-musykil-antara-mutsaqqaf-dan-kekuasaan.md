@@ -1,5 +1,5 @@
 ---
-title: Hubungan Musykil antara Mutsaqqaf dan Kekuasaan 
+title: Hubungan Musykil Mutsaqqaf dan Kekuasaan
 date: 2026-09-30 13:35:53 +03:00
 description: Esai ini merupakan makalah yang disampaikan Mahmud Amin al-Alim dalam seminar yang bertajuk “Pengetahuan dan Kekuasaan dalam Masyarakat Arab” yang digelar pada 6-9 Juli 1987. Dengan keterbatasan yang ada dan atas nama efisiensi, penerjemah hanya memilih dua seksi—yakni sub-bab pertama dan sub-bab kedua—dari esai untuk diterjemahkan.
 excerpt: Esai ini merupakan makalah yang disampaikan Mahmud Amin al-Alim dalam seminar yang bertajuk “Pengetahuan dan Kekuasaan dalam Masyarakat Arab” yang digelar pada 6-9 Juli 1987. Dengan keterbatasan yang ada dan atas nama efisiensi, penerjemah hanya memilih dua seksi—yakni sub-bab pertama dan sub-bab kedua—dari esai untuk diterjemahkan.
@@ -15,15 +15,14 @@ tags:
   - politik
   - kekuasaan
 header:
-  image: "assets/images/posts/1001114340.jpg"
-  teaser: "assets/images/posts/1001114340.jpg"
+  image: assets/images/posts/1001114340.jpg
+  teaser: assets/images/posts/1001114340.jpg
   caption: ""
-  og_image: "assets/images/posts/1001114340.jpg"
+  og_image: assets/images/posts/1001114340.jpg
 ---
-
-> Diterjemahkan oleh Faishol Abimanyu, esai ini merupakan makalah yang disampaikan Mahmud Amin al-Alim dalam seminar yang bertajuk “Pengetahuan dan Kekuasaan dalam Masyarakat Arab” yang digelar pada 6-9 Juli 1987. Dengan keterbatasan yang ada dan atas nama efisiensi, ~~pemerintah dengan tololnya mempertahankan MBG~~ penerjemah hanya memilih dua seksi—yakni sub-bab pertama dan sub-bab kedua—dari esai untuk diterjemahkan. 
+> Esai ini merupakan makalah yang disampaikan Mahmud Amin al-Alim dalam seminar yang bertajuk “Pengetahuan dan Kekuasaan dalam Masyarakat Arab” yang digelar pada 6-9 Juli 1987. Dengan keterbatasan yang ada dan atas nama efisiensi, ~~pemerintah dengan tololnya mempertahankan MBG~~ penerjemah hanya memilih dua seksi—yakni sub-bab pertama dan sub-bab kedua—dari esai untuk diterjemahkan. 
 > 
-> Term “*mutsaqqaf*” yang diderivasikan dari “*tsaqāfah*” di sini diterjemahkan sebagai “intelektual”. Kata “tsaqāfah” dipakai secara sistematis baru pada masa Nahdah Arab sebagai padanan untuk “culture” dalam pengertian Eropa. Kata “*culture*” dipahami bukan dalam pengertian etnografis atau kesenian belaka, melainkan dalam pengertian *Bildung*: penguasaan pengetahuan dan pembentukan diri lewat pengetahuan tersebut. 
+> Term “*mutsaqqaf*” yang diderivasikan dari “*tsaqāfah*” di sini diterjemahkan sebagai “intelektual”. Kata “*tsaqāfah*” dipakai secara sistematis baru pada masa Nahdah Arab sebagai padanan untuk “*culture*” dalam pengertian Eropa. Kata “*culture*” dipahami bukan dalam pengertian etnografis atau kesenian belaka, melainkan dalam pengertian *Bildung*: penguasaan pengetahuan dan pembentukan diri lewat pengetahuan tersebut. 
 > 
 > Dalam kosakata Indonesia, “*mutsaqqaf*” dapat diartikan sebagai budayawan jika kebudayaan diartikan dalam arti luasnya, yakni laku dan cara bernalar yang mengekspresikan kedirian—eksistensial, kognitif, dan emosional—yang ia hidupi. Koentjaraningrat, seorang antropolog Indonesia, membagi kebudayaan dalam tiga wujud: sistem gagasan, sistem sosial, dan kebudayaan fisik. Jika pameran dan panggung kebudayaan yang kerap kita saksikan biasanya merujuk ke wujud ketiga kebudayaan dan mengabaikan wujud kedua sebelumnya, maka “*mutsaqqaf*” dan “*tsaqāfah*” di sini harus dipahami dalam ketiga wujudnya sekaligus.
 
@@ -59,7 +58,7 @@ Bahkan dalam fondasi pengetahuan ilmiah yang paling tepat dan objektif sekalipun
 
 Terlepas dari semua itu, kebudayaan masih dapat mempertahankan aspek pengetahuannya (*maʿrifī*) semata, meskipun tirani ideologis seringkali membayanginya. Namun, betapa banyak aspek pengetahuan semata ini juga memiliki pengaruh ideologis, baik secara langsung maupun tak langsung.  
 
-Galileo tidak dipertanyakan dan diadili hanya karena menyatakan bahwa Bumi berputar mengelilingi matahari, atau karena menyimpang dari sistem astronomi yang telah ditetapkan oleh Gereja. Melainkan, karena sistem astronomi baru yang diusulkannya mengganggu struktur sosial berbasis kelas penguasa dominan pada masanya. Bertolt Brecht dengan brilian mengungkapkan kebenaran ini dalam adegan kesepuluh dramanya, ***Hayāt Galileo***.  
+Galileo tidak dipertanyakan dan diadili hanya karena menyatakan bahwa Bumi berputar mengelilingi matahari, atau karena menyimpang dari sistem astronomi yang telah ditetapkan oleh Gereja. Melainkan, karena sistem astronomi baru yang diusulkannya mengganggu struktur sosial berbasis kelas penguasa dominan pada masanya. Bertolt Brecht dengan brilian mengungkapkan kebenaran ini dalam adegan kesepuluh dramanya, *Hayāt Galileo*.  
 
 Oleh karena itu, produksi dan kreativitas pemikiran, ilmiah, dan teknologi, serta pencapaian-pencapaian pengetahuan secara umum, tentu mengandung potensi transformatif, bahkan revolusioner. Hal ini karena kesemuanya melekat pada kekuatan produksi sosial manusia secara umum, yang melalui pengembangan dan progresivitasnya turut andil dalam merealisasikan perubahan sosial yang bersifat progresif.  
 
