@@ -1,0 +1,680 @@
+---
+layout: default
+classes: wide
+---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html locale=locale %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<div id="main" role="main">
+  <article class="splash home-splash" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <section class="page__content home-splash__intro" itemprop="text">
+      {{ content }}
+    </section>
+
+    <section class="home-section home-section--featured" aria-labelledby="featured-posts-title">
+      <div class="home-section__header">
+        <h2 id="featured-posts-title">Terbaru</h2>
+      </div>
+      <div class="featured-carousel" data-carousel>
+        <div class="featured-carousel__viewport">
+          <div class="featured-carousel__track">
+            {% assign featured_count = 0 %}
+            {% for post in site.posts %}
+              {% unless post.hidden %}
+                {% if featured_count < 3 %}
+                  {% assign post_image = post.header.image | default: post.image | default: post.header.teaser | default: site.teaser %}
+                  <article class="home-post home-post--featured" data-carousel-slide itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+                    {% if post_image %}
+                      <div class="archive__item-teaser">
+                        <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | strip_html | strip_newlines | escape }}">
+                          <img src="{{ post_image | relative_url }}" alt="{{ post.title | strip_html | strip_newlines | escape }}" loading="lazy">
+                        </a>
+                      </div>
+                    {% endif %}
+                    <div class="archive__item-body">
+                      {% if post.categories and post.categories.size > 0 %}<p class="archive__item-category">{{ post.categories | join: ", " }}</p>{% endif %}
+                      <h3 class="archive__item-title no_toc p-name" itemprop="headline"><a class="u-url" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                      {% if post.author %}<p class="archive__item-author">{{ post.author }}</p>{% endif %}
+                      {% assign post_excerpt = post.excerpt | default: post.content %}
+                      {% if post_excerpt %}<p class="archive__item-excerpt">{{ post_excerpt | strip_html | truncatewords: 40 }}</p>{% endif %}
+                      {% include home-post-meta.html locale=locale %}
+                    </div>
+                  </article>
+                  {% assign featured_count = featured_count | plus: 1 %}
+                {% endif %}
+              {% endunless %}
+            {% endfor %}
+          </div>
+        </div>
+        <button class="featured-carousel__control featured-carousel__control--previous" type="button" data-carousel-previous aria-label="Tulisan sebelumnya">&#8592;</button>
+        <button class="featured-carousel__control featured-carousel__control--next" type="button" data-carousel-next aria-label="Tulisan berikutnya">&#8594;</button>
+        <div class="featured-carousel__dots" data-carousel-dots></div>
+      </div>
+    </section>
+
+    <section class="home-section home-section--latest" aria-labelledby="latest-posts-title" data-local-pagination>
+      <div class="home-section__header">
+        <h2 id="latest-posts-title">Tulisan Lainnya</h2>
+      </div>
+      <div class="latest-posts">
+        {% assign latest_visible_count = 0 %}
+        {% for post in site.posts %}
+          {% unless post.hidden %}
+            {% if latest_visible_count >= 3 %}
+              {% assign post_image = post.header.image | default: post.image | default: post.header.teaser | default: site.teaser %}
+              <article class="home-post home-post--latest" data-local-page-item itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+                {% if post_image %}
+                  <div class="latest-post__teaser">
+                    <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | strip_html | strip_newlines | escape }}">
+                      <img src="{{ post_image | relative_url }}" alt="{{ post.title | strip_html | strip_newlines | escape }}" loading="lazy">
+                    </a>
+                  </div>
+                {% endif %}
+                <div class="latest-post__body">
+                  {% if post.categories and post.categories.size > 0 %}<p class="archive__item-category">{{ post.categories | join: ", " }}</p>{% endif %}
+                  <h3 class="archive__item-title no_toc p-name" itemprop="headline"><a class="u-url" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                  {% if post.author %}<p class="archive__item-author">{{ post.author }}</p>{% endif %}
+                  {% assign post_excerpt = post.excerpt | default: post.content %}
+                  {% if post_excerpt %}<p class="archive__item-excerpt">{{ post_excerpt | strip_html | truncatewords: 16 }}</p>{% endif %}
+                  {% include home-post-meta.html locale=locale %}
+                </div>
+              </article>
+            {% endif %}
+            {% assign latest_visible_count = latest_visible_count | plus: 1 %}
+          {% endunless %}
+        {% endfor %}
+      </div>
+      <nav class="latest-pagination" data-local-pagination-controls aria-label="Paginasi tulisan lainnya" hidden>
+        <button type="button" data-local-previous aria-label="Tulisan sebelumnya" disabled>&#8592;</button>
+        <span data-local-page-status aria-live="polite"></span>
+        <button type="button" data-local-next aria-label="Tulisan berikutnya" disabled>&#8594;</button>
+      </nav>
+    </section>
+
+    {% assign section_categories = "esai,ulasan" | split: "," %}
+    {% for section_category in section_categories %}
+      {% assign section_count = 0 %}
+      {% assign section_title = section_category | capitalize %}
+      <section class="home-section home-section--category" aria-labelledby="{{ section_category }}-posts-title">
+        <div class="home-section__header">
+          <h2 id="{{ section_category }}-posts-title"><a href="{{ '/categories/' | append: section_category | append: '/' | relative_url }}">{{ section_title }}</a></h2>
+        </div>
+        <div class="home-category-grid">
+          {% for post in site.posts %}
+            {% unless post.hidden %}
+              {% if post.categories contains section_category and section_count < 3 %}
+                {% assign post_image = post.header.image | default: post.image | default: post.header.teaser | default: site.teaser %}
+                <article class="home-post home-post--medium" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+                  {% if post_image %}
+                    <div class="archive__item-teaser">
+                      <a href="{{ post.url | relative_url }}" aria-label="{{ post.title | strip_html | strip_newlines | escape }}">
+                        <img src="{{ post_image | relative_url }}" alt="{{ post.title | strip_html | strip_newlines | escape }}" loading="lazy">
+                      </a>
+                    </div>
+                  {% endif %}
+                  <div class="archive__item-body">
+                    <h3 class="archive__item-title no_toc p-name" itemprop="headline"><a class="u-url" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                    {% if post.author %}<p class="archive__item-author">{{ post.author }}</p>{% endif %}
+                    {% assign post_excerpt = post.excerpt | default: post.content %}
+                    {% if post_excerpt %}<p class="archive__item-excerpt">{{ post_excerpt | strip_html | truncatewords: 24 }}</p>{% endif %}
+                    {% include home-post-meta.html locale=locale %}
+                  </div>
+                </article>
+                {% assign section_count = section_count | plus: 1 %}
+              {% endif %}
+            {% endunless %}
+          {% endfor %}
+        </div>
+      </section>
+    {% endfor %}
+
+    <section class="home-section home-section--editorial" aria-labelledby="redaksi-posts-title">
+      <div class="home-section__header">
+        <h2 id="redaksi-posts-title"><a href="{{ '/categories/redaksi/' | relative_url }}">Redaksi</a></h2>
+      </div>
+      <ul class="editorial-list">
+        {% assign editorial_count = 0 %}
+        {% for post in site.posts %}
+          {% unless post.hidden %}
+            {% if post.categories contains "redaksi" and editorial_count < 5 %}
+              <li class="editorial-list__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+                <div>
+                  <h3 class="archive__item-title p-name" itemprop="headline"><a class="u-url" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                  {% if post.excerpt %}<p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncatewords: 22 }}</p>{% endif %}
+                </div>
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time>
+              </li>
+              {% assign editorial_count = editorial_count | plus: 1 %}
+            {% endif %}
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    </section>
+
+  </article>
+</div>
+
+<style>
+  .home-splash {
+    width: 100%;
+  }
+
+  .home-splash__intro {
+    margin-bottom: 2.5rem;
+  }
+
+  .home-section {
+    margin: 0 0 3rem;
+  }
+
+  .home-section--editorial {
+    margin-bottom: 0.75rem;
+  }
+
+  .home-section__header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.8rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .home-section__header h2 {
+    flex: 0 0 auto;
+    margin: 0;
+    font-size: 1.35rem;
+  }
+
+  .home-section__header h2 a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .home-section__header h2 a:hover,
+  .home-section__header h2 a:focus {
+    text-decoration: underline;
+  }
+
+  .home-section__header::after {
+    flex: 1 1 auto;
+    height: 2px;
+    background: #263b36;
+    content: "";
+  }
+
+  .featured-carousel {
+    position: relative;
+    padding: 0 3rem 2.5rem;
+  }
+
+  .featured-carousel__viewport {
+    overflow: hidden;
+  }
+
+  .featured-carousel__track {
+    display: flex;
+    transition: transform 0.35s ease;
+  }
+
+  .featured-carousel .home-post--featured {
+    display: grid;
+    flex: 0 0 100%;
+    grid-template-columns: 1.15fr 1fr;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .featured-carousel .archive__item-teaser {
+    border-radius: 4px;
+  }
+
+  .featured-carousel .archive__item-teaser,
+  .home-post--medium .archive__item-teaser {
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+  }
+
+  .featured-carousel .archive__item-teaser img {
+    display: block;
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+  }
+
+  .featured-carousel .archive__item-body,
+  .home-post--medium .archive__item-body {
+    min-width: 0;
+  }
+
+  .featured-carousel .archive__item-title {
+    margin: 0 0 0.5rem;
+    font-size: 1.8rem;
+    line-height: 1.25;
+  }
+
+  .featured-carousel__control {
+    position: absolute;
+    top: 42%;
+    z-index: 1;
+    width: 2.4rem;
+    height: 2.4rem;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    border-radius: 50%;
+    background: #fff;
+    color: #263b36;
+    cursor: pointer;
+    font-size: 1.2rem;
+    line-height: 1;
+  }
+
+  .featured-carousel__control[hidden] {
+    display: none;
+  }
+
+  .featured-carousel__control--previous {
+    left: 0;
+  }
+
+  .featured-carousel__control--next {
+    right: 0;
+  }
+
+  .featured-carousel__dots {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+
+  .featured-carousel__dot {
+    width: 0.55rem;
+    height: 0.55rem;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: #c7cbd1;
+    cursor: pointer;
+  }
+
+  .featured-carousel__dot.is-active {
+    background: #263b36;
+  }
+
+  .home-post {
+    min-width: 0;
+  }
+
+  .home-category-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.9rem;
+  }
+
+  .home-post--medium {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+  }
+
+  .home-post--medium .archive__item-teaser img {
+    display: block;
+    width: 100%;
+    height: 145px;
+    object-fit: cover;
+  }
+
+  .home-post--medium .archive__item-body {
+    padding: 0.75rem 0.85rem 0.9rem;
+  }
+
+  .home-post--medium .archive__item-title {
+    margin: 0 0 0.35rem;
+    font-size: 1.05rem;
+    line-height: 1.3;
+  }
+
+  .home-post--medium .archive__item-excerpt {
+    margin: 0.55rem 0;
+    font-size: 0.85rem;
+    line-height: 1.55;
+  }
+
+  .latest-posts {
+    display: grid;
+    gap: 0.75rem;
+  }
+
+  .home-post--latest {
+    display: grid;
+    grid-template-columns: 120px minmax(0, 1fr);
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.14);
+  }
+
+  .home-post--latest[hidden] {
+    display: none;
+  }
+
+  .latest-post__teaser {
+    width: 120px;
+    height: 82px;
+    overflow: hidden;
+    border-radius: 3px;
+  }
+
+  .latest-post__teaser img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.25s ease;
+  }
+
+  .latest-post__teaser:hover img {
+    transform: scale(1.03);
+  }
+
+  .latest-post__body {
+    min-width: 0;
+  }
+
+  .latest-post__body .archive__item-category {
+    margin-bottom: 0.35rem;
+  }
+
+  .latest-post__body .archive__item-title {
+    margin: 0;
+    font-size: 1.05rem;
+  }
+
+  .latest-post__body .archive__item-excerpt {
+    margin: 0.35rem 0;
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+
+  .latest-post__body .home-post-meta {
+    margin: 0;
+    font-size: 0.75rem;
+  }
+
+  .latest-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+
+  .latest-pagination[hidden] {
+    display: none;
+  }
+
+  .latest-pagination button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.5rem;
+    min-height: 2.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    border-radius: 50%;
+    background: #fff;
+    color: #263b36;
+    cursor: pointer;
+    font-size: 1.1rem;
+  }
+
+  .latest-pagination button:disabled {
+    cursor: not-allowed;
+    opacity: 0.45;
+  }
+
+  .latest-pagination [data-local-page-status] {
+    min-width: 7rem;
+    color: #6b7280;
+    font-size: 0.85rem;
+    text-align: center;
+  }
+
+  .home-post .archive__item-teaser img {
+    transition: transform 0.25s ease;
+  }
+
+  .home-post .archive__item-teaser:hover img {
+    transform: scale(1.02);
+  }
+
+  .archive__item-category {
+    display: inline-block;
+    width: fit-content;
+    margin: 0 0 0.7rem;
+    padding: 0.28rem 0.72rem;
+    border-radius: 999px;
+    background: #e8efec;
+    color: #263b36;
+    font-size: 0.68rem;
+    line-height: 1.3;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+
+  .archive__item-author {
+    margin: 0 0 0.45rem;
+    color: #6b7280;
+    font-size: 0.72rem;
+    line-height: 1.5;
+    font-weight: 600;
+  }
+
+  .archive__item-title {
+    line-height: 1.25;
+  }
+
+  .home-splash .archive__item-title a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .home-splash .archive__item-title a:hover,
+  .home-splash .archive__item-title a:focus {
+    text-decoration: underline;
+  }
+
+  .archive__item-excerpt {
+    margin: 0.75rem 0;
+    color: #4a4a4a;
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+
+  .editorial-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .editorial-list__item {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1.5rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.14);
+  }
+
+  .editorial-list__item:first-child {
+    border-top: 1px solid rgba(0, 0, 0, 0.14);
+  }
+
+  .editorial-list__item .archive__item-title {
+    margin: 0;
+    font-size: 1.05rem;
+  }
+
+  .editorial-list__item .archive__item-excerpt {
+    margin-bottom: 0;
+  }
+
+  .editorial-list__item time {
+    flex: 0 0 auto;
+    color: #6b7280;
+    font-size: 0.8rem;
+  }
+
+  @media (max-width: 767px) {
+    .featured-carousel {
+      padding-inline: 2.5rem;
+    }
+
+    .featured-carousel .home-post--featured {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .featured-carousel .archive__item-teaser img {
+      height: 220px;
+    }
+
+    .featured-carousel .archive__item-title {
+      font-size: 1.35rem;
+    }
+
+    .home-category-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .home-post--medium .archive__item-teaser img {
+      height: 165px;
+    }
+
+    .home-post--latest {
+      grid-template-columns: 88px minmax(0, 1fr);
+      gap: 0.75rem;
+    }
+
+    .latest-post__teaser {
+      width: 88px;
+      height: 68px;
+    }
+
+    .latest-post__body .archive__item-excerpt {
+      display: none;
+    }
+
+    .editorial-list__item {
+      align-items: flex-start;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .home-category-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+</style>
+
+<script>
+  document.querySelectorAll('[data-carousel]').forEach(function (carousel) {
+    var track = carousel.querySelector('.featured-carousel__track');
+    var slides = carousel.querySelectorAll('[data-carousel-slide]');
+    var dots = carousel.querySelector('[data-carousel-dots]');
+    var previous = carousel.querySelector('[data-carousel-previous]');
+    var next = carousel.querySelector('[data-carousel-next]');
+    var currentSlide = 0;
+
+    if (!track || !dots || !previous || !next || slides.length === 0) {
+      return;
+    }
+
+    if (slides.length < 2) {
+      previous.hidden = true;
+      next.hidden = true;
+      return;
+    }
+
+    slides.forEach(function (_, index) {
+      var dot = document.createElement('button');
+      dot.className = 'featured-carousel__dot' + (index === 0 ? ' is-active' : '');
+      dot.type = 'button';
+      dot.setAttribute('aria-label', 'Buka tulisan ' + (index + 1));
+      dot.addEventListener('click', function () {
+        goToSlide(index);
+      });
+      dots.appendChild(dot);
+    });
+
+    function goToSlide(index) {
+      currentSlide = (index + slides.length) % slides.length;
+      track.style.transform = 'translateX(-' + (currentSlide * 100) + '%)';
+      dots.querySelectorAll('.featured-carousel__dot').forEach(function (dot, dotIndex) {
+        dot.classList.toggle('is-active', dotIndex === currentSlide);
+      });
+    }
+
+    previous.addEventListener('click', function () {
+      goToSlide(currentSlide - 1);
+    });
+    next.addEventListener('click', function () {
+      goToSlide(currentSlide + 1);
+    });
+  });
+
+  document.querySelectorAll('[data-local-pagination]').forEach(function (section) {
+    var items = section.querySelectorAll('[data-local-page-item]');
+    var controls = section.querySelector('[data-local-pagination-controls]');
+    var previous = section.querySelector('[data-local-previous]');
+    var next = section.querySelector('[data-local-next]');
+    var status = section.querySelector('[data-local-page-status]');
+    var pageSize = 5;
+    var currentPage = 0;
+    var totalPages = Math.ceil(items.length / pageSize);
+
+    if (!controls || !previous || !next || !status || totalPages < 2) {
+      return;
+    }
+
+    controls.hidden = false;
+
+    function showPage(page) {
+      currentPage = page;
+      items.forEach(function (item, index) {
+        item.hidden = index < currentPage * pageSize || index >= (currentPage + 1) * pageSize;
+      });
+      previous.disabled = currentPage === 0;
+      next.disabled = currentPage === totalPages - 1;
+      status.textContent = 'Halaman ' + (currentPage + 1) + ' dari ' + totalPages;
+    }
+
+    previous.addEventListener('click', function () {
+      if (currentPage > 0) {
+        showPage(currentPage - 1);
+      }
+    });
+    next.addEventListener('click', function () {
+      if (currentPage < totalPages - 1) {
+        showPage(currentPage + 1);
+      }
+    });
+
+    showPage(0);
+  });
+</script>
